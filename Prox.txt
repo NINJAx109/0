@@ -657,3 +657,103 @@ iphone|Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_2; like Mac OS X) AppleWebKit/536
 iphone|Mozilla/5.0 (iPhone; CPU iPhone OS 8_3_9; like Mac OS X) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/49.0.3107.124 Mobile Safari/601.9
 iphone|Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_5; like Mac OS X) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/48.0.2208.136 Mobile Safari/601.2
 iphone|Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_1; like Mac OS X) AppleWebKit/602.28 (KHTML, like Gecko)  Chrome/55.0.3590.383 Mobile Safari/537.4
+firefox|Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/67.6
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_1) Gecko/20100101 Firefox/52.0
+firefox|Mozilla/5.0 (Linux; Linux i672 ; en-US) Gecko/20100101 Firefox/71.0
+firefox|Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/52.9
+firefox|Mozilla/5.0 (Linux; U; Linux i546 x86_64) Gecko/20130401 Firefox/57.6
+firefox|Mozilla/5.0 (Windows; Windows NT 10.2;) Gecko/20100101 Firefox/48.8
+firefox|Mozilla/5.0 (Linux i541 x86_64; en-US) Gecko/20130401 Firefox/73.7
+firefox|Mozilla/5.0 (Linux; Linux i681 x86_64; en-US) Gecko/20100101 Firefox/74.7
+firefox|Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/48.8
+firefox|Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/72.7
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_2) Gecko/20100101 Firefox/71.9
+firefox|Mozilla/5.0 (U; Linux i675 x86_64; en-US) Gecko/20100101 Firefox/47.7
+firefox|Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/58.4
+firefox|Mozilla/5.0 (Windows; Windows NT 10.2; WOW64; en-US) Gecko/20130401 Firefox/74.8
+firefox|Mozilla/5.0 (Linux; Linux i584 ) Gecko/20100101 Firefox/74.8
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_0_5) Gecko/20100101 Firefox/47.4
+firefox|Mozilla/5.0 (Windows NT 6.3;; en-US) Gecko/20130401 Firefox/51.2
+firefox|Mozilla/5.0 (Linux; U; Linux i660 ; en-US) Gecko/20100101 Firefox/73.3
+firefox|Mozilla/5.0 (Windows; Windows NT 10.5;) Gecko/20100101 Firefox/57.6
+firefox|Mozilla/5.0 (Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/47.9
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_2_4; en-US) Gecko/20130401 Firefox/59.0
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_8) Gecko/20100101 Firefox/49.4
+firefox|Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/49.1
+firefox|Mozilla/5.0 (Linux; Linux i576 x86_64) Gecko/20100101 Firefox/47.9
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_5) Gecko/20130401 Firefox/45.6
+firefox|Mozilla/5.0 (Windows NT 10.2;; en-US) Gecko/20130401 Firefox/58.4
+firefox|Mozilla/5.0 (Windows; Windows NT 10.0;; en-US) Gecko/20100101 Firefox/74.6
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_9; en-US) Gecko/20130401 Firefox/62.1
+firefox|Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/70.2
+firefox|Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/58.4
+firefox|Mozilla/5.0 (U; Linux i640 ; en-US) Gecko/20100101 Firefox/58.8
+firefox|Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20100101 Firefox/61.7
+firefox|Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/67.2
+firefox|Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/54.6
+firefox|Mozilla/5.0 (U; Linux i550 ; en-US) Gecko/20100101 Firefox/49.0
+firefox|Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/47.3
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_7) Gecko/20130401 Firefox/66.6
+firefox|Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/59.7
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_0_6; en-US) Gecko/20130401 Firefox/54.2
+firefox|Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) Gecko/20130401 Firefox/69.9
+firefox|Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) Gecko/20130401 Firefox/70.8
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_6) Gecko/20100101 Firefox/49.2
+firefox|Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) Gecko/20100101 Firefox/66.8
+firefox|Mozilla/5.0 (Windows NT 6.1; x64; en-US) Gecko/20100101 Firefox/60.3
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_5_9; en-US) Gecko/20130401 Firefox/72.5
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_4_4; en-US) Gecko/20100101 Firefox/51.0
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_5_5) Gecko/20130401 Firefox/71.7
+firefox|Mozilla/5.0 (U; Linux i565 x86_64; en-US) Gecko/20100101 Firefox/72.7
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_3; en-US) Gecko/20130401 Firefox/59.8
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_0) Gecko/20100101 Firefox/51.5
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_9; en-US) Gecko/20130401 Firefox/71.2
+firefox|Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/50.1
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0) Gecko/20100101 Firefox/53.9
+firefox|Mozilla/5.0 (Linux i575 x86_64; en-US) Gecko/20100101 Firefox/58.8
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_1_6; en-US) Gecko/20130401 Firefox/48.6
+firefox|Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/57.8
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_2_5) Gecko/20100101 Firefox/73.3
+firefox|Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/54.4
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_7; en-US) Gecko/20100101 Firefox/74.1
+firefox|Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/66.6
+firefox|Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/49.0
+firefox|Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) Gecko/20100101 Firefox/49.4
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_6; en-US) Gecko/20100101 Firefox/68.6
+firefox|Mozilla/5.0 (Windows NT 10.3; WOW64) Gecko/20100101 Firefox/65.2
+firefox|Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/60.8
+firefox|Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/57.7
+firefox|Mozilla/5.0 (Windows NT 10.3; x64; en-US) Gecko/20100101 Firefox/61.5
+firefox|Mozilla/5.0 (Linux i686 ) Gecko/20100101 Firefox/72.8
+firefox|Mozilla/5.0 (Windows NT 6.2; WOW64) Gecko/20100101 Firefox/50.7
+firefox|Mozilla/5.0 (Windows NT 6.0; x64; en-US) Gecko/20100101 Firefox/52.5
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_4) Gecko/20100101 Firefox/72.2
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_6_6; en-US) Gecko/20100101 Firefox/63.0
+firefox|Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) Gecko/20100101 Firefox/45.7
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_4; en-US) Gecko/20100101 Firefox/57.5
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_9_0) Gecko/20130401 Firefox/74.9
+firefox|Mozilla/5.0 (Windows; U; Windows NT 6.0;; en-US) Gecko/20100101 Firefox/57.2
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4; en-US) Gecko/20100101 Firefox/69.3
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_2; en-US) Gecko/20100101 Firefox/59.2
+firefox|Mozilla/5.0 (Linux x86_64) Gecko/20130401 Firefox/57.0
+firefox|Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/66.4
+firefox|Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/55.2
+firefox|Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/60.0
+firefox|Mozilla/5.0 (Linux; Linux i652 ) Gecko/20130401 Firefox/72.1
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 7_4_8) Gecko/20130401 Firefox/47.6
+firefox|Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/47.3
+firefox|Mozilla/5.0 (Windows; Windows NT 10.2; WOW64; en-US) Gecko/20100101 Firefox/70.7
+firefox|Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/59.1
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 9_4_0; en-US) Gecko/20100101 Firefox/74.7
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_2_2) Gecko/20100101 Firefox/70.8
+firefox|Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) Gecko/20130401 Firefox/49.2
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1; en-US) Gecko/20100101 Firefox/50.2
+firefox|Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/50.3
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_4) Gecko/20100101 Firefox/65.9
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_5; en-US) Gecko/20100101 Firefox/55.0
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_6_2; en-US) Gecko/20100101 Firefox/50.4
+firefox|Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64) Gecko/20100101 Firefox/74.6
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 7_1_5) Gecko/20100101 Firefox/50.2
+firefox|Mozilla/5.0 (Windows; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/52.3
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_2) Gecko/20100101 Firefox/51.3
+firefox|Mozilla/5.0 (Windows; U; Windows NT 6.3;; en-US) Gecko/20130401 Firefox/55.5
