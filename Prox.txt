@@ -3857,3 +3857,1003 @@ chrome|Mozilla/5.0 (Linux; U; Linux x86_64) AppleWebKit/603.25 (KHTML, like Geck
 chrome|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_6; en-US) AppleWebKit/602.15 (KHTML, like Gecko) Chrome/51.0.3314.183 Safari/603
 chrome|Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/601.31 (KHTML, like Gecko) Chrome/49.0.3019.212 Safari/536
 chrome|Mozilla/5.0 (Linux i683 ; en-US) AppleWebKit/600.12 (KHTML, like Gecko) Chrome/48.0.3467.252 Safari/533
+android|Mozilla/5.0 (Linux; Android 6.0; SM-G928I Build/MDB08L) AppleWebKit/603.46 (KHTML, like Gecko)  Chrome/54.0.1469.185 Mobile Safari/534.4
+android|Mozilla/5.0 (Linux; Android 7.1; Pixel C Build/NME91E) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/47.0.2613.320 Mobile Safari/603.1
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; SM-D928L Build/MDB08L) AppleWebKit/602.19 (KHTML, like Gecko)  Chrome/52.0.1214.309 Mobile Safari/601.0
+android|Mozilla/5.0 (Linux; Android 4.4; SAMSUNG-SGH-I337M Build/KOT49H) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/53.0.2457.235 Mobile Safari/533.7
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D331 Build/LRX22G) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/50.0.2772.395 Mobile Safari/600.7
+android|Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-J100G Build/KTU84P) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/55.0.2046.275 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/53.0.1471.196 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-N8010 Build/KVT49L) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/52.0.3040.226 Mobile Safari/534.1
+android|Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/536.1 (KHTML, like Gecko)  Chrome/53.0.2239.147 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; Android 7.0; Xperia Build/NDE63X) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/53.0.2013.167 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G920FG Build/LRX22G) AppleWebKit/537.37 (KHTML, like Gecko)  Chrome/52.0.1806.328 Mobile Safari/601.5
+android|Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/537.4 (KHTML, like Gecko)  Chrome/48.0.2422.130 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; Android 5.1; SM-G925F Build/LMY47X) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/49.0.3867.369 Mobile Safari/603.7
+android|Mozilla/5.0 (Linux; Android 5.0; LG-D723 Build/LRX22G) AppleWebKit/537.15 (KHTML, like Gecko)  Chrome/50.0.3408.399 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-T534 Build/KTU84P) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/51.0.3087.200 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-G400 Build/LRX22C) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/48.0.1115.186 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; Android 5.0.1; HTC 80:number1-2w Build/JSS15J) AppleWebKit/533.36 (KHTML, like Gecko)  Chrome/47.0.2022.200 Mobile Safari/536.7
+android|Mozilla/5.0 (Linux; Android 7.1.1; GT-I9800 Build/KTU84P) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/52.0.3670.359 Mobile Safari/602.5
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D727 Build/LRX22G) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/52.0.2628.163 Mobile Safari/602.5
+android|Mozilla/5.0 (Android; Android 6.0; Nexus 5P Build/MDB08L) AppleWebKit/602.21 (KHTML, like Gecko)  Chrome/47.0.2211.349 Mobile Safari/603.2
+android|Mozilla/5.0 (Android; Android 4.3.1; GT-I9200 Build/JDQ39) AppleWebKit/600.44 (KHTML, like Gecko)  Chrome/48.0.2307.166 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; U; Android 4.4; SM-G9009D Build/KOT49H) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/53.0.3451.242 Mobile Safari/600.9
+android|Mozilla/5.0 (Android; Android 7.0; Nexus 9X Build/NME91E) AppleWebKit/535.28 (KHTML, like Gecko)  Chrome/51.0.1176.266 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-G450 Build/LRX22C) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/52.0.1075.170 Mobile Safari/601.5
+android|Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G925H Build/LRX22G) AppleWebKit/536.9 (KHTML, like Gecko)  Chrome/47.0.3549.312 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 6 Build/LMY48B) AppleWebKit/603.32 (KHTML, like Gecko)  Chrome/53.0.3351.190 Mobile Safari/533.2
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D337 Build/LRX22G) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/47.0.2285.232 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC Butterfly S 919d Build/LRX22G) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/54.0.3568.273 Mobile Safari/602.1
+android|Mozilla/5.0 (Android; Android 4.4.4; HTC One0P6B Build/KOT49H) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/55.0.3654.385 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G320 Build/JLS36I) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/55.0.2430.338 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 7 Build/LMY48B) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/53.0.1067.227 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/53.0.1390.329 Mobile Safari/537.3
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/54.0.3751.371 Mobile Safari/533.4
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G935X Build/LMY47X) AppleWebKit/602.45 (KHTML, like Gecko)  Chrome/53.0.3908.305 Mobile Safari/602.9
+android|Mozilla/5.0 (Linux; Android 7.1.1; LG-H900 Build/NRD90M) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/48.0.1394.103 Mobile Safari/534.0
+android|Mozilla/5.0 (Android; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/51.0.1878.112 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-T535 Build/KOT49H) AppleWebKit/534.9 (KHTML, like Gecko)  Chrome/55.0.2410.332 Mobile Safari/536.7
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; SAMSUNG SM-G928L Build/MMB29K) AppleWebKit/535.2 (KHTML, like Gecko)  Chrome/55.0.3299.262 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; Android 6.0; SM-D928I Build/MDB08I) AppleWebKit/533.43 (KHTML, like Gecko)  Chrome/54.0.2370.171 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/54.0.1921.173 Mobile Safari/602.2
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-D724 Build/LRX22G) AppleWebKit/535.48 (KHTML, like Gecko)  Chrome/55.0.1066.268 Mobile Safari/535.1
+android|Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/54.0.3845.184 Mobile Safari/537.7
+android|Mozilla/5.0 (Android; Android 5.0.2; SM-G410 Build/LRX22C) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/47.0.1906.152 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G920FQ Build/LRX22G) AppleWebKit/533.15 (KHTML, like Gecko)  Chrome/54.0.2302.154 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; Android 4.3.1; HTC Xplorer A340s Build/GRJ90) AppleWebKit/534.19 (KHTML, like Gecko)  Chrome/48.0.1793.175 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; Android 4.3.1; Samsung Galaxy S4 Mega GT-I9000 Build/JDQ39) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/51.0.3456.218 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; Android 4.4.4; Nexus_S_4G Build/GRJ22) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/51.0.2911.164 Mobile Safari/537.4
+android|Mozilla/5.0 (Linux; U; Android 6.0; Nexus 7 Build/MMB29K) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/49.0.1428.244 Mobile Safari/600.4
+android|Mozilla/5.0 (Android; Android 5.0.2; Nokia 1100 4G Build/GRK39F) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/49.0.1943.122 Mobile Safari/536.2
+android|Mozilla/5.0 (Android; Android 5.0; Nokia 1000 LTE Build/GRK39F) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/54.0.3327.139 Mobile Safari/533.0
+android|Mozilla/5.0 (Android; Android 7.0; LG-H900 Build/NRD90C) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/49.0.3985.208 Mobile Safari/601.1
+android|Mozilla/5.0 (Android; Android 5.1; SM-G920T Build/LRX22G) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/51.0.1294.210 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/602.8 (KHTML, like Gecko)  Chrome/55.0.2026.224 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; U; Android 7.1; GT-I9300 Build/KTU84P) AppleWebKit/602.12 (KHTML, like Gecko)  Chrome/48.0.3922.288 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus 8 Build/KOT49H) AppleWebKit/603.31 (KHTML, like Gecko)  Chrome/51.0.3675.371 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-E500F Build/KTU84P) AppleWebKit/537.12 (KHTML, like Gecko)  Chrome/49.0.3000.343 Mobile Safari/535.7
+android|Mozilla/5.0 (Android; Android 4.4.4; LG-F400L Build/KOT49H) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/48.0.3331.171 Mobile Safari/602.9
+android|Mozilla/5.0 (Linux; Android 4.4; LG-H210 Build/KOT49I) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/53.0.2047.204 Mobile Safari/533.4
+android|Mozilla/5.0 (Android; Android 4.4.4; E:number:20-23:04 Build/24.0.B.1.34) AppleWebKit/602.42 (KHTML, like Gecko)  Chrome/52.0.2282.197 Mobile Safari/535.0
+android|Mozilla/5.0 (Android; Android 7.1.1; LG-H930 Build/NRD90C) AppleWebKit/603.5 (KHTML, like Gecko)  Chrome/47.0.3404.273 Mobile Safari/603.1
+android|Mozilla/5.0 (Android; Android 7.1.1; GT-I9400 Build/KTU84P) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/51.0.1323.120 Mobile Safari/603.4
+android|Mozilla/5.0 (Linux; Android 5.0; LG-D334 Build/LRX22G) AppleWebKit/536.47 (KHTML, like Gecko)  Chrome/53.0.3391.161 Mobile Safari/602.9
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; SAMSUNG SM-D928S Build/MDB08I) AppleWebKit/537.19 (KHTML, like Gecko)  Chrome/49.0.3276.341 Mobile Safari/602.4
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-D952T Build/KVT49L) AppleWebKit/534.47 (KHTML, like Gecko)  Chrome/51.0.2619.254 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; U; Android 4.4; ALCATEL ONE TOUCH 7030D Build/KOT49H) AppleWebKit/601.20 (KHTML, like Gecko)  Chrome/54.0.1801.310 Mobile Safari/534.2
+android|Mozilla/5.0 (Linux; Android 4.4.1; LG-D956 Build/KOT49H) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/50.0.3488.110 Mobile Safari/602.3
+android|Mozilla/5.0 (Android; Android 4.4.1; Nokia 3110 Build/IMM76D) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/52.0.3713.358 Mobile Safari/601.6
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO G Build/LPH223) AppleWebKit/600.47 (KHTML, like Gecko)  Chrome/52.0.3608.335 Mobile Safari/533.6
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-A700T Build/LRX22G) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/51.0.3596.193 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; MOTO X PURE XT1575 Build/LPK23) AppleWebKit/602.3 (KHTML, like Gecko)  Chrome/54.0.1916.277 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; Android 5.0.2; Nokia 1000 4G Build/GRK39F) AppleWebKit/535.44 (KHTML, like Gecko)  Chrome/53.0.3916.222 Mobile Safari/533.5
+android|Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/48.0.1888.153 Mobile Safari/533.9
+android|Mozilla/5.0 (Android; Android 7.1.1; GT-I9600 Build/KTU84P) AppleWebKit/533.24 (KHTML, like Gecko)  Chrome/53.0.1945.159 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; LG-F400S Build/KOT49I) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/48.0.3212.263 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G9350F Build/LMY47X) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/48.0.1366.261 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-T275t Build/JSS15J) AppleWebKit/536.11 (KHTML, like Gecko)  Chrome/47.0.1845.227 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; Android 5.1; MOTOROLA XT1021 Build/LXB22) AppleWebKit/536.29 (KHTML, like Gecko)  Chrome/47.0.1201.265 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G925FQ Build/LRX22G) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/50.0.2678.208 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; U; Android 7.1; Nexus 7X Build/NPD90G) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/49.0.1113.127 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; Android 5.0; SM-G925F Build/KOT49H) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/48.0.3292.260 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; SAMSUNG SM-D9350V Build/MMB29V) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/48.0.3653.316 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/49.0.2921.289 Mobile Safari/533.5
+android|Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/54.0.2826.232 Mobile Safari/535.0
+android|Mozilla/5.0 (Android; Android 5.1; SM-G920FD Build/LRX22G) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/48.0.1331.393 Mobile Safari/536.3
+android|Mozilla/5.0 (Linux; Android 5.1.1; MOTO XT1570 MOTO X STYLE Build/LPD23) AppleWebKit/533.1 (KHTML, like Gecko)  Chrome/50.0.3117.268 Mobile Safari/536.9
+android|Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1000 wifi Build/GRK39F) AppleWebKit/535.40 (KHTML, like Gecko)  Chrome/51.0.1730.134 Mobile Safari/603.3
+android|Mozilla/5.0 (Android; Android 6.0; HTC One0P8B2 dual sim Build/MRA58K) AppleWebKit/533.23 (KHTML, like Gecko)  Chrome/53.0.3350.366 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; Android 4.4; SM-T533 Build/KOT49H) AppleWebKit/536.46 (KHTML, like Gecko)  Chrome/54.0.1181.331 Mobile Safari/603.3
+android|Mozilla/5.0 (Android; Android 5.1; SM-G9350T Build/LMY47X) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/50.0.3727.305 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G9350L Build/LMY47X) AppleWebKit/603.3 (KHTML, like Gecko)  Chrome/50.0.3377.186 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 4.4.1; LG-E987 Build/KOT49I) AppleWebKit/536.33 (KHTML, like Gecko)  Chrome/51.0.1129.179 Mobile Safari/535.7
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G925M Build/LMY47X) AppleWebKit/535.50 (KHTML, like Gecko)  Chrome/55.0.3787.369 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-H210 Build/KOT49H) AppleWebKit/602.22 (KHTML, like Gecko)  Chrome/51.0.1377.142 Mobile Safari/601.5
+android|Mozilla/5.0 (Android; Android 5.1.1; SM-G9358 Build/LMY47X) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/48.0.1391.140 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG GT-I9401I Build/KOT49H) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/53.0.3963.182 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 5.0.2; Lenovo A7000-a Build/LRX21M;) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/53.0.2968.336 Mobile Safari/534.7
+android|Mozilla/5.0 (Android; Android 5.1; SM-G9350FD Build/LMY47X) AppleWebKit/535.26 (KHTML, like Gecko)  Chrome/55.0.1374.395 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; LG-E989 Build/KOT49I) AppleWebKit/533.27 (KHTML, like Gecko)  Chrome/51.0.1070.318 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; U; Android 6.0; SAMSUNG SM-G93508 Build/MDB08L) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/50.0.1044.202 Mobile Safari/602.4
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D729 Build/LRX22G) AppleWebKit/603.45 (KHTML, like Gecko)  Chrome/55.0.3392.211 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; U; Android 4.4; XT1029 Build/[KXB20.9|KXC21.5]) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/55.0.2622.265 Mobile Safari/537.4
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/52.0.1013.337 Mobile Safari/534.9
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/602.30 (KHTML, like Gecko)  Chrome/51.0.2979.305 Mobile Safari/536.7
+android|Mozilla/5.0 (Android; Android 4.4; [HM NOTE|NOTE-III|NOTE2 1LTETD) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/51.0.2228.139 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; Android 5.0; LG-D722 Build/LRX22G) AppleWebKit/600.39 (KHTML, like Gecko)  Chrome/48.0.2772.379 Mobile Safari/602.4
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HTC Xplorer A290e Build/GRJ90) AppleWebKit/600.27 (KHTML, like Gecko)  Chrome/52.0.2053.202 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350X Build/MMB29M) AppleWebKit/536.25 (KHTML, like Gecko)  Chrome/54.0.2113.213 Mobile Safari/533.7
+android|Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-A800H Build/LMY47X) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/47.0.2493.248 Mobile Safari/603.0
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D721 Build/LRX22G) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/51.0.2554.357 Mobile Safari/536.5
+android|Mozilla/5.0 (Android; Android 6.0; SM-D920I Build/MMB29K) AppleWebKit/602.1 (KHTML, like Gecko)  Chrome/47.0.2797.184 Mobile Safari/601.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; LG-H920 Build/NRD90M) AppleWebKit/534.43 (KHTML, like Gecko)  Chrome/47.0.1425.379 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One801e Build/MRA58K) AppleWebKit/534.43 (KHTML, like Gecko)  Chrome/48.0.2856.288 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6X Build/MDB08I) AppleWebKit/536.46 (KHTML, like Gecko)  Chrome/55.0.2918.173 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-G3537A Build/JLS36C) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/49.0.2737.120 Mobile Safari/603.4
+android|Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-P555 Build/LRX22G) AppleWebKit/603.5 (KHTML, like Gecko)  Chrome/49.0.2649.330 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One0P8B2 Build/MRA58K) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/55.0.2972.312 Mobile Safari/603.8
+android|Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-G400 Build/LRX22C) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/51.0.1923.222 Mobile Safari/537.8
+android|Mozilla/5.0 (Linux; Android 4.4; SM-E500L Build/KTU84P) AppleWebKit/602.38 (KHTML, like Gecko)  Chrome/50.0.2635.276 Mobile Safari/534.0
+android|Mozilla/5.0 (Android; Android 5.1; MOTO XT1575 Build/LPD23) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/52.0.2207.277 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; Android 7.0; LG-H930 Build/NRD90M) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/52.0.3816.318 Mobile Safari/536.8
+android|Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/47.0.1514.351 Mobile Safari/537.7
+android|Mozilla/5.0 (Linux; Android 4.3.1; Nokia 3215 Build/IMM76D) AppleWebKit/603.24 (KHTML, like Gecko)  Chrome/47.0.3522.345 Mobile Safari/533.5
+android|Mozilla/5.0 (Android; Android 7.1.1; LG-H910 Build/NRD90C) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/55.0.3602.209 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/50.0.1679.365 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350X Build/LMY47X) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/47.0.3884.158 Mobile Safari/536.7
+android|Mozilla/5.0 (Android; Android 6.0.1; SAMSUNG SM-D925I Build/MMB29V) AppleWebKit/535.14 (KHTML, like Gecko)  Chrome/53.0.2230.102 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NME91E) AppleWebKit/601.14 (KHTML, like Gecko)  Chrome/49.0.1489.330 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; Android 4.4; LG-E987 Build/KOT49I) AppleWebKit/534.5 (KHTML, like Gecko)  Chrome/47.0.1888.178 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; SAMSUNG GT-I9400 Build/KTU84P) AppleWebKit/537.20 (KHTML, like Gecko)  Chrome/55.0.2488.297 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D919 Build/LRX22G) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/47.0.1170.386 Mobile Safari/534.3
+android|Mozilla/5.0 (Linux; Android 4.3.1; GT-I9300 Build/JDQ39) AppleWebKit/602.32 (KHTML, like Gecko)  Chrome/49.0.3726.229 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LRX22C) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/53.0.2915.179 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; Android 4.4.1; LG Optimus G Build/KRT16M) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/48.0.3479.342 Mobile Safari/534.3
+android|Mozilla/5.0 (Android; Android 7.1.1; LG-H920 Build/NRD90M) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/48.0.1184.212 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-D93508 Build/MMB29V) AppleWebKit/534.36 (KHTML, like Gecko)  Chrome/50.0.1445.334 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; Android 4.4.1; Nexus 7 Build/KTU84P) AppleWebKit/535.35 (KHTML, like Gecko)  Chrome/49.0.2600.302 Mobile Safari/600.5
+android|Mozilla/5.0 (Android; Android 6.0; SM-G925I Build/MMB29V) AppleWebKit/535.31 (KHTML, like Gecko)  Chrome/49.0.2361.174 Mobile Safari/535.1
+android|Mozilla/5.0 (Android; Android 6.0; Nexus 7X Build/MDB08L) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/55.0.1332.136 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/534.9 (KHTML, like Gecko)  Chrome/49.0.3638.249 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SM-N9007 Build/KOT49H) AppleWebKit/533.17 (KHTML, like Gecko)  Chrome/49.0.1248.296 Mobile Safari/537.4
+android|Mozilla/5.0 (Android; Android 7.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/54.0.1825.135 Mobile Safari/535.4
+android|Mozilla/5.0 (Android; Android 4.4; SM-J100G Build/KTU84P) AppleWebKit/603.6 (KHTML, like Gecko)  Chrome/52.0.1408.223 Mobile Safari/533.7
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTO X PURE XT1575 Build/LPH223) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/49.0.2173.135 Mobile Safari/602.9
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M8 Build/MRA58K) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/51.0.3009.333 Mobile Safari/535.1
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 7 Build/MMB29V) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/52.0.3355.267 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 5.1; Nexus 5 Build/LMY48B) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/54.0.3849.125 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 4.4.4; SGH-I337M Build/KOT49H) AppleWebKit/603.2 (KHTML, like Gecko)  Chrome/47.0.1760.372 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-F300K Build/KOT49I) AppleWebKit/537.37 (KHTML, like Gecko)  Chrome/50.0.3499.247 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G920L Build/LMY47X) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/55.0.1184.239 Mobile Safari/535.8
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2w Build/LRX22G) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/55.0.2336.351 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/54.0.2059.162 Mobile Safari/600.7
+android|Mozilla/5.0 (Android; Android 4.4.1; HTC Onemini 2 Build/KTU84L) AppleWebKit/533.1 (KHTML, like Gecko)  Chrome/50.0.3318.240 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/49.0.3427.225 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 5.1; MOTO XT1570 MOTO X STYLE Build/LMY47Z) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/54.0.1967.310 Mobile Safari/537.2
+android|Mozilla/5.0 (Android; Android 4.4.1; IQ4501 Quad Build/KOT49H) AppleWebKit/603.37 (KHTML, like Gecko)  Chrome/53.0.3652.206 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; Android 4.4.4; Nexus 6 Build/KOT49H) AppleWebKit/536.29 (KHTML, like Gecko)  Chrome/47.0.1990.101 Mobile Safari/536.3
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/537.40 (KHTML, like Gecko)  Chrome/48.0.2777.322 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; SM-G717S Build/JLS36C) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/51.0.3524.227 Mobile Safari/537.1
+android|Mozilla/5.0 (Android; Android 7.1; LG-H930 Build/NRD90M) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/54.0.2231.378 Mobile Safari/536.8
+android|Mozilla/5.0 (Android; Android 4.4.4; Nokia 3210 Build/IMM76D) AppleWebKit/602.14 (KHTML, like Gecko)  Chrome/53.0.3174.343 Mobile Safari/537.0
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D724 Build/LRX22G) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/51.0.1101.394 Mobile Safari/536.0
+android|Mozilla/5.0 (Android; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/52.0.3244.158 Mobile Safari/603.5
+android|Mozilla/5.0 (Android; Android 4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/54.0.1317.292 Mobile Safari/602.3
+android|Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9700 Build/KTU84P) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/55.0.3807.204 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; Android 4.4.4; SM-N8000 Build/JZO54K) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/50.0.3427.245 Mobile Safari/536.9
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 7P Build/MDB08L) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/49.0.1372.366 Mobile Safari/536.7
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G920M Build/LRX22G) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/54.0.1488.237 Mobile Safari/602.0
+android|Mozilla/5.0 (Android; Android 4.3.1; HP Compaq 2210b Build/JLS36C) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/49.0.3997.250 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; U; Android 7.0; LG-H930 Build/NRD90M) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/47.0.1402.365 Mobile Safari/534.3
+android|Mozilla/5.0 (Linux; Android 5.0; SM-T350 Build/LRX22G) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/48.0.3946.204 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; Android 4.4.4; SGH-I337 Build/JSS15J) AppleWebKit/537.2 (KHTML, like Gecko)  Chrome/55.0.3826.230 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; Android 7.1.1; Nexus 8X Build/NME91E) AppleWebKit/537.9 (KHTML, like Gecko)  Chrome/52.0.2950.368 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D724 Build/LRX22G) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/47.0.1204.276 Mobile Safari/537.8
+android|Mozilla/5.0 (Android; Android 5.0; LG-D335 Build/LRX22G) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/50.0.3354.184 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-G470 Build/LRX22G) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/55.0.1829.388 Mobile Safari/537.5
+android|Mozilla/5.0 (Android; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/537.2 (KHTML, like Gecko)  Chrome/51.0.2948.166 Mobile Safari/534.0
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-G400 Build/LRX22G) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/47.0.1524.353 Mobile Safari/602.2
+android|Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-G925S Build/MMB29V) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/54.0.3981.299 Mobile Safari/603.4
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/603.46 (KHTML, like Gecko)  Chrome/50.0.1560.251 Mobile Safari/602.2
+android|Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG-SM-N910G Build/LRX22C) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/55.0.1628.111 Mobile Safari/602.5
+android|Mozilla/5.0 (Linux; Android 4.4; LG-V600 Build/KOT49I) AppleWebKit/534.36 (KHTML, like Gecko)  Chrome/54.0.2536.154 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/52.0.3578.144 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; Android 4.4.4; SM-E500L Build/KTU84P) AppleWebKit/533.5 (KHTML, like Gecko)  Chrome/47.0.2528.173 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/54.0.1246.147 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; Android 5.0.2; Nokia 1000 4G Build/GRK39F) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/49.0.1350.373 Mobile Safari/534.1
+android|Mozilla/5.0 (Linux; U; Android 7.1; Xperia Build/NDE63X) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/47.0.2767.341 Mobile Safari/534.6
+android|Mozilla/5.0 (Android; Android 6.0.1; Nexus 5X Build/MMB29V) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/54.0.1181.162 Mobile Safari/537.2
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G928S Build/LMY47X) AppleWebKit/600.39 (KHTML, like Gecko)  Chrome/53.0.2402.359 Mobile Safari/537.8
+android|Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-T285t Build/JSS15J) AppleWebKit/602.32 (KHTML, like Gecko)  Chrome/48.0.3886.326 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 6.0; Nexus 5P Build/MMB29V) AppleWebKit/534.36 (KHTML, like Gecko)  Chrome/50.0.3978.262 Mobile Safari/536.9
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/603.24 (KHTML, like Gecko)  Chrome/51.0.3821.207 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D718 Build/LRX22G) AppleWebKit/600.50 (KHTML, like Gecko)  Chrome/49.0.2048.145 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; GT-I9400 Build/KTU84P) AppleWebKit/601.30 (KHTML, like Gecko)  Chrome/50.0.1380.216 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; Android 4.4; Elephone P3000 Build/KTU84P) AppleWebKit/601.19 (KHTML, like Gecko)  Chrome/54.0.2444.114 Mobile Safari/536.7
+android|Mozilla/5.0 (Linux; U; Android 5.0; HTC Butterfly S 901d Build/LRX22G) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/53.0.2006.133 Mobile Safari/602.2
+android|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7P Build/MMB29K) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/47.0.1703.370 Mobile Safari/535.3
+android|Mozilla/5.0 (Android; Android 5.0; LG-D713 Build/LRX22G) AppleWebKit/533.21 (KHTML, like Gecko)  Chrome/48.0.2781.276 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/600.24 (KHTML, like Gecko)  Chrome/49.0.2100.173 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D333 Build/LRX22G) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/50.0.2427.159 Mobile Safari/533.7
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G935S Build/LMY47X) AppleWebKit/537.33 (KHTML, like Gecko)  Chrome/51.0.2621.349 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; Android 5.0; Nokia 1100 wifi Build/GRK39F) AppleWebKit/534.18 (KHTML, like Gecko)  Chrome/54.0.2553.196 Mobile Safari/536.4
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D716 Build/LRX22G) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/47.0.2961.309 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NME91E) AppleWebKit/602.15 (KHTML, like Gecko)  Chrome/53.0.1352.348 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 5X Build/MDB08L) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/54.0.2153.246 Mobile Safari/602.4
+android|Mozilla/5.0 (Android; Android 6.0.1; SM-G928V Build/MMB29V) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/48.0.3164.269 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/51.0.3601.248 Mobile Safari/536.1
+android|Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/49.0.1932.214 Mobile Safari/537.4
+android|Mozilla/5.0 (Android; Android 7.0; Nexus 5P Build/NME91E) AppleWebKit/536.25 (KHTML, like Gecko)  Chrome/54.0.2271.370 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G480 Build/LRX22C) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/48.0.3844.176 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D717 Build/LRX22G) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/49.0.3640.352 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/48.0.1684.221 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; Android 5.0; SM-G480 Build/LRX22C) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/54.0.3029.104 Mobile Safari/534.9
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/54.0.2016.269 Mobile Safari/533.7
+android|Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D9350M Build/MMB29K) AppleWebKit/603.45 (KHTML, like Gecko)  Chrome/54.0.1026.119 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; Android 5.1; SM-G935FD Build/LMY47X) AppleWebKit/535.13 (KHTML, like Gecko)  Chrome/51.0.3230.271 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-D951 Build/KOT49H) AppleWebKit/537.8 (KHTML, like Gecko)  Chrome/55.0.1123.120 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; Android 4.3.1; Ascend G320 Build/JLS36I) AppleWebKit/603.1 (KHTML, like Gecko)  Chrome/51.0.1247.154 Mobile Safari/603.1
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/533.9 (KHTML, like Gecko)  Chrome/49.0.1608.158 Mobile Safari/534.8
+android|Mozilla/5.0 (Android; Android 5.0; LG-D723 Build/LRX22G) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/50.0.1065.198 Mobile Safari/601.1
+android|Mozilla/5.0 (Android; Android 4.4; XT1050 Build/SU6-7.3) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/49.0.3404.207 Mobile Safari/601.6
+android|Mozilla/5.0 (Android; Android 4.4.4; Nexus_ 10 Build/KOT49H) AppleWebKit/603.6 (KHTML, like Gecko)  Chrome/52.0.2233.239 Mobile Safari/536.4
+android|Mozilla/5.0 (Android; Android 4.4.4; SAMSUNG GT-I9506N Build/KOT49H) AppleWebKit/603.38 (KHTML, like Gecko)  Chrome/49.0.1964.183 Mobile Safari/603.4
+android|Mozilla/5.0 (Android; Android 4.4; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/537.20 (KHTML, like Gecko)  Chrome/50.0.3255.291 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/51.0.2411.191 Mobile Safari/537.7
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D720 Build/LRX22G) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/50.0.3761.306 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 5.0; SM-A700F Build/LMY47X) AppleWebKit/601.6 (KHTML, like Gecko)  Chrome/55.0.2600.370 Mobile Safari/602.8
+android|Mozilla/5.0 (Android; Android 5.0; SM-G952P Build/LMY47X) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/52.0.1860.279 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; U; Android 7.1; Nexus 5P Build/NPD90G) AppleWebKit/533.42 (KHTML, like Gecko)  Chrome/54.0.2546.127 Mobile Safari/537.4
+android|Mozilla/5.0 (Android; Android 7.1; Xperia Build/NDE63X) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/50.0.2638.203 Mobile Safari/603.7
+android|Mozilla/5.0 (Linux; U; Android 7.1; Pixel XL Build/NRD90M) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/51.0.3323.172 Mobile Safari/535.5
+android|Mozilla/5.0 (Linux; Android 7.1.1; LG-H930 Build/NRD90C) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/47.0.3015.378 Mobile Safari/535.0
+android|Mozilla/5.0 (Android; Android 4.4.4; Nexus_S_Build/GRJ22) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/51.0.3924.163 Mobile Safari/537.2
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D722 Build/LRX22G) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/54.0.2243.308 Mobile Safari/537.9
+android|Mozilla/5.0 (Linux; U; Android 4.4; SM-E500L Build/KTU84P) AppleWebKit/601.20 (KHTML, like Gecko)  Chrome/52.0.3308.361 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; Android 5.1.1; Nexus 9 Build/LRX22C) AppleWebKit/601.22 (KHTML, like Gecko)  Chrome/52.0.2995.159 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; LG-H920 Build/NRD90M) AppleWebKit/533.7 (KHTML, like Gecko)  Chrome/51.0.2036.357 Mobile Safari/600.8
+android|Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/537.12 (KHTML, like Gecko)  Chrome/51.0.3404.162 Mobile Safari/533.0
+android|Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-G330S Build/JLS36C) AppleWebKit/535.48 (KHTML, like Gecko)  Chrome/53.0.1307.264 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; XT1036 Build/[KXB20.9|KXC21.5]) AppleWebKit/533.22 (KHTML, like Gecko)  Chrome/47.0.1945.246 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; Android 4.4; LG-E988 Build/KOT49I) AppleWebKit/602.42 (KHTML, like Gecko)  Chrome/51.0.3077.391 Mobile Safari/602.1
+android|Mozilla/5.0 (Android; Android 4.4.4; SAMSUNG SM-N9005 Build/KOT49H) AppleWebKit/536.12 (KHTML, like Gecko)  Chrome/54.0.2897.216 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/537.12 (KHTML, like Gecko)  Chrome/51.0.2302.375 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-N8010 Build/JZO54K) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/53.0.3952.302 Mobile Safari/600.3
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/536.19 (KHTML, like Gecko)  Chrome/50.0.2786.127 Mobile Safari/601.5
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 5X Build/NPD90G) AppleWebKit/535.13 (KHTML, like Gecko)  Chrome/52.0.2396.114 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 5.1; MOTOROLA MOTO XT1570 MOTO X STYLE Build/LPK23) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/50.0.1573.291 Mobile Safari/535.0
+android|Mozilla/5.0 (Android; Android 6.0.1; SAMSUNG SM-G9350F Build/MMB29K) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/54.0.1182.211 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; Android 4.3.1; SM-G3431R5 Build/JLS36C) AppleWebKit/602.29 (KHTML, like Gecko)  Chrome/55.0.2635.217 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/536.39 (KHTML, like Gecko)  Chrome/50.0.3612.330 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; Android 5.1; SM-G9288 Build/LRX22G) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/48.0.1397.398 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/50.0.1560.170 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 7.1; Xperia Build/NDE63X) AppleWebKit/535.27 (KHTML, like Gecko)  Chrome/49.0.2700.364 Mobile Safari/600.6
+android|Mozilla/5.0 (Linux; U; Android 6.0; SAMSUNG SM-G928M Build/MDB08I) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/55.0.2898.181 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; E:number:20-23:33 Build/24.0.A.1.34) AppleWebKit/537.18 (KHTML, like Gecko)  Chrome/47.0.1060.334 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; U; Android 7.1; Nexus 6X Build/NME91E) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/54.0.1972.133 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; GT-I9404T Build/KOT49H) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/55.0.3525.275 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; U; Android 7.1; Xperia Build/NDE63X) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/54.0.2566.326 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MDB08L) AppleWebKit/534.44 (KHTML, like Gecko)  Chrome/51.0.1696.369 Mobile Safari/535.5
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-D952 Build/KOT49H) AppleWebKit/601.21 (KHTML, like Gecko)  Chrome/48.0.2805.339 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; Android 4.3.1; SM-N718A Build/JLS36C) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/53.0.2976.130 Mobile Safari/534.5
+android|Mozilla/5.0 (Android; Android 7.1.1; Nexus 9 Build/NME91E) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/54.0.2577.116 Mobile Safari/601.8
+android|Mozilla/5.0 (Android; Android 5.0; SM-G920L Build/LRX21T) AppleWebKit/535.27 (KHTML, like Gecko)  Chrome/52.0.2999.105 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/49.0.2020.272 Mobile Safari/534.6
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) AppleWebKit/602.15 (KHTML, like Gecko)  Chrome/50.0.1582.263 Mobile Safari/600.2
+android|Mozilla/5.0 (Android; Android 7.1; LG-H920 Build/NRD90M) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/54.0.3865.101 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; U; Android 7.0; Nexus 9P Build/NPD90G) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/47.0.1900.226 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/47.0.3262.211 Mobile Safari/534.3
+android|Mozilla/5.0 (Android; Android 7.0; Nexus 7P Build/NME91E) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/54.0.2515.267 Mobile Safari/602.5
+android|Mozilla/5.0 (Android; Android 4.4.4; Nexus_S_Build/GRJ22) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/54.0.1398.263 Mobile Safari/601.8
+android|Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-G410 Build/LRX22G) AppleWebKit/537.34 (KHTML, like Gecko)  Chrome/47.0.2814.243 Mobile Safari/603.8
+android|Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SGH-N085V Build/JSS15J) AppleWebKit/602.30 (KHTML, like Gecko)  Chrome/52.0.3069.362 Mobile Safari/602.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D326 Build/LRX22G) AppleWebKit/600.36 (KHTML, like Gecko)  Chrome/47.0.2198.198 Mobile Safari/600.2
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/53.0.3386.192 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; Android 4.4.1; LG-F500S Build/KOT49H) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/55.0.1446.218 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 8 Build/LMY48B) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/48.0.2625.350 Mobile Safari/603.7
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/534.7 (KHTML, like Gecko)  Chrome/55.0.2074.342 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/49.0.1012.327 Mobile Safari/535.8
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G928F Build/LRX22G) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/54.0.3641.271 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; U; Android 7.0; LG-H930 Build/NRD90M) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/53.0.2494.254 Mobile Safari/600.6
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D331 Build/LRX22G) AppleWebKit/602.49 (KHTML, like Gecko)  Chrome/54.0.1377.158 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; Android 5.1.1; MOTOROLA MOTO E XT1021 Build/LPK23) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/51.0.1364.191 Mobile Safari/601.1
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HP Compaq 2210b Build/JSS15J) AppleWebKit/535.50 (KHTML, like Gecko)  Chrome/55.0.3348.303 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; U; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/49.0.3441.227 Mobile Safari/601.5
+android|Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-N9007 Build/KOT49H) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/49.0.1998.363 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; Android 5.1; SM-G925X Build/LRX22G) AppleWebKit/533.5 (KHTML, like Gecko)  Chrome/51.0.1000.158 Mobile Safari/603.5
+android|Mozilla/5.0 (Android; Android 5.1.1; SM-G9350I Build/LMY47X) AppleWebKit/603.32 (KHTML, like Gecko)  Chrome/51.0.2040.187 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/52.0.2060.289 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; Android 5.1; MOTO G XT1068 Build/LXB22) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/48.0.1904.184 Mobile Safari/600.5
+android|Mozilla/5.0 (Android; Android 5.1; SM-G935F-ORANGE Build/LMY47X) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/48.0.2096.294 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 5 Build/LMY48B) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/53.0.3513.314 Mobile Safari/602.0
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO XT1562 Build/LPH223) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/49.0.3697.269 Mobile Safari/603.6
+android|Mozilla/5.0 (Android; Android 7.1.1; LG-H910 Build/NRD90M) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/55.0.3516.222 Mobile Safari/533.4
+android|Mozilla/5.0 (Android; Android 4.4.1; Nexus 6 Build/KOT49H) AppleWebKit/534.5 (KHTML, like Gecko)  Chrome/54.0.1710.259 Mobile Safari/534.1
+android|Mozilla/5.0 (Android; Android 5.1; MOTOROLA MOTO G XT1068 Build/LXB22) AppleWebKit/601.15 (KHTML, like Gecko)  Chrome/47.0.3432.126 Mobile Safari/535.9
+android|Mozilla/5.0 (Android; Android 5.0.1; SM-T355 Build/LRX22G) AppleWebKit/603.33 (KHTML, like Gecko)  Chrome/52.0.3069.169 Mobile Safari/600.8
+android|Mozilla/5.0 (Android; Android 6.0; SM-G928S Build/MDB08I) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/53.0.1201.267 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; U; Android 7.0; Nexus 7X Build/NME91E) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/55.0.1188.309 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; Android 5.0; Nokia 1100 LTE Build/GRK39F) AppleWebKit/535.42 (KHTML, like Gecko)  Chrome/48.0.2344.130 Mobile Safari/601.8
+android|Mozilla/5.0 (Android; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/47.0.1733.106 Mobile Safari/603.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; ALCATEL ONETOUCH 7020D Build/KOT49H) AppleWebKit/603.44 (KHTML, like Gecko)  Chrome/55.0.1894.332 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; U; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/47.0.2342.273 Mobile Safari/536.8
+android|Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/537.5 (KHTML, like Gecko)  Chrome/49.0.2039.130 Mobile Safari/600.1
+android|Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G920FG Build/LMY47X) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/49.0.1244.251 Mobile Safari/603.7
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; HTC 80:number1-2w Build/JSS15J) AppleWebKit/535.23 (KHTML, like Gecko)  Chrome/50.0.2138.273 Mobile Safari/602.5
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/536.12 (KHTML, like Gecko)  Chrome/54.0.2808.258 Mobile Safari/602.2
+android|Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/533.43 (KHTML, like Gecko)  Chrome/47.0.3362.121 Mobile Safari/603.5
+android|Mozilla/5.0 (Android; Android 4.3.1; HTC One 801e Build/JSS15J) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/52.0.1823.221 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D850I Build/KOT49I) AppleWebKit/537.21 (KHTML, like Gecko)  Chrome/53.0.2951.358 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G920L Build/LRX22G) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/52.0.3016.302 Mobile Safari/537.9
+android|Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-N8000 Build/KVT49L) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/50.0.1107.194 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/50.0.1875.252 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; U; Android 6.0; SM-D925I Build/MMB29V) AppleWebKit/534.43 (KHTML, like Gecko)  Chrome/54.0.3827.290 Mobile Safari/533.6
+android|Mozilla/5.0 (Linux; Android 7.1; Pixel C Build/NRD90M) AppleWebKit/603.5 (KHTML, like Gecko)  Chrome/48.0.1466.311 Mobile Safari/533.7
+android|Mozilla/5.0 (Linux; Android 6.0.1; SM-D9350I Build/MDB08L) AppleWebKit/603.32 (KHTML, like Gecko)  Chrome/54.0.2922.231 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/537.19 (KHTML, like Gecko)  Chrome/52.0.3295.213 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/601.46 (KHTML, like Gecko)  Chrome/54.0.2516.307 Mobile Safari/537.7
+android|Mozilla/5.0 (Android; Android 5.1.1; SM-G920I Build/LMY47X) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/53.0.1660.361 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; Android 4.4.4; SAMSUNG SM-N9006 Build/KOT49H) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/51.0.2542.170 Mobile Safari/535.8
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia 3010 Build/IMM76D) AppleWebKit/537.5 (KHTML, like Gecko)  Chrome/52.0.1871.281 Mobile Safari/601.1
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; LG-V510 Build/KOT49I) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/55.0.3900.211 Mobile Safari/535.1
+android|Mozilla/5.0 (Linux; U; Android 5.0; Nokia 1000 LTE Build/GRK39F) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/53.0.2792.125 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/536.33 (KHTML, like Gecko)  Chrome/55.0.2260.126 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; Xperia Build/NDE63X) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/53.0.3302.139 Mobile Safari/601.1
+android|Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G9350T Build/LMY47X) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/50.0.2356.371 Mobile Safari/534.6
+android|Mozilla/5.0 (Linux; Android 4.4; GT-I9404I Build/KOT49H) AppleWebKit/537.24 (KHTML, like Gecko)  Chrome/53.0.1969.376 Mobile Safari/537.9
+android|Mozilla/5.0 (Linux; Android 6.0; Nexus 5X Build/MMB29K) AppleWebKit/536.44 (KHTML, like Gecko)  Chrome/51.0.2385.169 Mobile Safari/537.6
+android|Mozilla/5.0 (Android; Android 4.4.4; Nexus_ 5 Build/KTU84P) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/47.0.2285.202 Mobile Safari/537.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KOT49H) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/54.0.3632.333 Mobile Safari/537.6
+android|Mozilla/5.0 (Android; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L11) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/53.0.2680.111 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1100 wifi Build/GRK39F) AppleWebKit/537.44 (KHTML, like Gecko)  Chrome/49.0.2485.110 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-J100F Build/KTU84P) AppleWebKit/537.17 (KHTML, like Gecko)  Chrome/47.0.1263.214 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; Android 5.1.1; MOTO X PURE XT1575 Build/LXB22) AppleWebKit/537.4 (KHTML, like Gecko)  Chrome/54.0.1495.348 Mobile Safari/601.6
+android|Mozilla/5.0 (Linux; Android 4.4.4; Elephone P3000 Build/KTU84P) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/52.0.3764.248 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; U; Android 7.0; LG-H930 Build/NRD90M) AppleWebKit/534.47 (KHTML, like Gecko)  Chrome/50.0.3983.245 Mobile Safari/603.2
+android|Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/536.33 (KHTML, like Gecko)  Chrome/51.0.3865.371 Mobile Safari/602.3
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; Lenovo P773 Build/Lenovo) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/47.0.2222.291 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/535.1 (KHTML, like Gecko)  Chrome/55.0.2230.380 Mobile Safari/537.3
+android|Mozilla/5.0 (Linux; Android 4.4.4; SAMSUNG-SGH-I337 Build/JSS15J) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/54.0.2357.203 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; HTC 80:number1-2w Build/LRX22G) AppleWebKit/602.19 (KHTML, like Gecko)  Chrome/50.0.2109.318 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 7.1; Nexus 6X Build/NPD90G) AppleWebKit/537.4 (KHTML, like Gecko)  Chrome/51.0.1850.321 Mobile Safari/602.1
+android|Mozilla/5.0 (Android; Android 4.3.1; HP Compaq 2210b Build/JLS36C) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/53.0.3566.252 Mobile Safari/600.7
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO G XT1068 Build/LPC23) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/48.0.1546.376 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; Android 4.3.1; Ascend G330 Build/JLS36I) AppleWebKit/603.31 (KHTML, like Gecko)  Chrome/47.0.1563.165 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G928FG Build/LRX22G) AppleWebKit/537.16 (KHTML, like Gecko)  Chrome/47.0.3575.105 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; Android 5.1.1; MOTOROLA MOTO X PLAY XT1562 Build/LPK23) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/53.0.3783.387 Mobile Safari/534.9
+android|Mozilla/5.0 (Linux; Android 5.1.1; Nexus 9 Build/LRX22C) AppleWebKit/536.16 (KHTML, like Gecko)  Chrome/47.0.1383.375 Mobile Safari/601.3
+android|Mozilla/5.0 (Android; Android 4.4; LG-D720 Build/KOT49H) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/48.0.1584.273 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G9350I Build/MMB29M) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/53.0.1798.366 Mobile Safari/533.6
+android|Mozilla/5.0 (Android; Android 4.4.4; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/52.0.3638.270 Mobile Safari/534.4
+android|Mozilla/5.0 (Linux; Android 4.4.4; Nexus_ 5 Build/KTU84P) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/55.0.2188.137 Mobile Safari/534.6
+android|Mozilla/5.0 (Android; Android 6.0.1; Nexus 6P Build/MDB08I) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/50.0.2708.322 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-A700F Build/LRX22G) AppleWebKit/534.5 (KHTML, like Gecko)  Chrome/53.0.1922.205 Mobile Safari/603.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G920F-ORANGE Build/KOT49H) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/50.0.3224.282 Mobile Safari/601.8
+android|Mozilla/5.0 (Android; Android 6.0.1; SAMSUNG SM-D928F Build/MMB29K) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/51.0.3832.176 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/53.0.1313.231 Mobile Safari/537.9
+android|Mozilla/5.0 (Android; Android 4.4.4; SM-T532 Build/KTU84P) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/48.0.1412.296 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/600.35 (KHTML, like Gecko)  Chrome/47.0.2504.287 Mobile Safari/535.1
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G9350F Build/LMY47X) AppleWebKit/601.20 (KHTML, like Gecko)  Chrome/49.0.3893.370 Mobile Safari/602.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC Butterfly S 901d Build/LRX22G) AppleWebKit/537.35 (KHTML, like Gecko)  Chrome/51.0.2779.311 Mobile Safari/533.1
+android|Mozilla/5.0 (Android; Android 4.3.1; Nokia 3215 Build/IMM76D) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/53.0.3560.270 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; U; Android 5.1; MOTO G Build/LXB22) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/49.0.3571.275 Mobile Safari/601.3
+android|Mozilla/5.0 (Android; Android 7.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/602.3 (KHTML, like Gecko)  Chrome/50.0.2860.270 Mobile Safari/602.8
+android|Mozilla/5.0 (Android; Android 5.0; SM-G900F Build/KOT49H) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/51.0.3408.119 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; U; Android 4.4; SAMSUNG SM-T532 Build/KOT49H) AppleWebKit/537.30 (KHTML, like Gecko)  Chrome/52.0.1597.351 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; Android 4.4; Nexus S Build/GRJ22) AppleWebKit/533.7 (KHTML, like Gecko)  Chrome/48.0.1881.312 Mobile Safari/601.7
+android|Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G920I Build/LRX21T) AppleWebKit/536.17 (KHTML, like Gecko)  Chrome/50.0.1317.394 Mobile Safari/535.5
+android|Mozilla/5.0 (Linux; Android 4.4.1; LG-D610 Build/KOT49H) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/53.0.1632.269 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L10) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/51.0.1725.116 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; Android 4.4; Nexus S 4G Build/GRJ22) AppleWebKit/534.5 (KHTML, like Gecko)  Chrome/47.0.2549.254 Mobile Safari/601.4
+android|Mozilla/5.0 (Android; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/533.17 (KHTML, like Gecko)  Chrome/48.0.3882.283 Mobile Safari/536.8
+android|Mozilla/5.0 (Linux; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/53.0.1229.292 Mobile Safari/534.9
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC Butterfly S 919d Build/LRX22G) AppleWebKit/535.33 (KHTML, like Gecko)  Chrome/47.0.2654.384 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/48.0.2937.293 Mobile Safari/535.8
+android|Mozilla/5.0 (Linux; Android 4.4.4; Nexus_S_4G Build/GRJ22) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/49.0.3420.118 Mobile Safari/600.6
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/50.0.3955.260 Mobile Safari/603.1
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC OneS Build/MRA58K) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/49.0.1889.167 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; Android 4.3.1; HP 655 Notebook PC Build/JSS15J) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/54.0.3456.293 Mobile Safari/600.4
+android|Mozilla/5.0 (Android; Android 4.3.1; Nokia 3215 Build/IMM76D) AppleWebKit/534.23 (KHTML, like Gecko)  Chrome/55.0.3610.376 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G9258 Build/MMB29K) AppleWebKit/602.22 (KHTML, like Gecko)  Chrome/51.0.2807.213 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HP Compaq 2210b Build/JLS36C) AppleWebKit/533.41 (KHTML, like Gecko)  Chrome/54.0.1770.326 Mobile Safari/601.4
+android|Mozilla/5.0 (Android; Android 4.4; MOTOROLA MOTOG Build/KVT49L) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/55.0.3897.103 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; Android 6.0; HTC OneS Build/MRA58K) AppleWebKit/533.49 (KHTML, like Gecko)  Chrome/49.0.2067.204 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7P Build/MDB08I) AppleWebKit/601.24 (KHTML, like Gecko)  Chrome/52.0.2090.271 Mobile Safari/534.9
+android|Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G900L Build/KTU84F) AppleWebKit/603.8 (KHTML, like Gecko)  Chrome/53.0.2350.215 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; Android 6.0; SAMSUNG SM-D928M Build/MMB29K) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/52.0.3443.287 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC OneS dual sim Build/MRA58K) AppleWebKit/533.1 (KHTML, like Gecko)  Chrome/50.0.3838.370 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 8 Build/LMY48B) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/47.0.3380.367 Mobile Safari/601.1
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One0P8B2 dual sim Build/MRA58K) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/52.0.1998.350 Mobile Safari/602.2
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One0P8B2 dual sim Build/MRA58K) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/52.0.3095.204 Mobile Safari/600.8
+android|Mozilla/5.0 (Android; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/48.0.3500.155 Mobile Safari/601.6
+android|Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/601.44 (KHTML, like Gecko)  Chrome/54.0.3232.352 Mobile Safari/603.3
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One801e dual sim Build/MRA58K) AppleWebKit/537.19 (KHTML, like Gecko)  Chrome/52.0.1536.322 Mobile Safari/533.8
+android|Mozilla/5.0 (Linux; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/536.12 (KHTML, like Gecko)  Chrome/50.0.1616.400 Mobile Safari/535.6
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/535.3 (KHTML, like Gecko)  Chrome/50.0.3852.247 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One max Build/JSS15J) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/48.0.1884.157 Mobile Safari/536.8
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; LG-H920 Build/NRD90M) AppleWebKit/537.26 (KHTML, like Gecko)  Chrome/52.0.2894.261 Mobile Safari/536.2
+android|Mozilla/5.0 (Android; Android 7.1.1; GT-I9200 Build/KTU84P) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/51.0.2624.101 Mobile Safari/537.9
+android|Mozilla/5.0 (Android; Android 5.0; SM-N910FY Build/LRX22C) AppleWebKit/602.43 (KHTML, like Gecko)  Chrome/52.0.1454.134 Mobile Safari/600.8
+android|Mozilla/5.0 (Linux; U; Android 4.4; LG-H200 Build/KOT49H) AppleWebKit/537.9 (KHTML, like Gecko)  Chrome/54.0.1394.252 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; XT1021 Build/LPC23) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/51.0.3607.173 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; U; Android 7.1; Xperia Build/NDE63X) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/47.0.1970.264 Mobile Safari/602.4
+android|Mozilla/5.0 (Android; Android 6.0.1; SM-G925V Build/MDB08L) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/50.0.1009.147 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; U; Android 7.0; SAMSUNG GT-I9700 Build/KTU84P) AppleWebKit/536.50 (KHTML, like Gecko)  Chrome/53.0.2597.114 Mobile Safari/536.9
+android|Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-N9008 Build/KOT49H) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/54.0.2884.276 Mobile Safari/535.2
+android|Mozilla/5.0 (Android; Android 7.1; Pixel XL Build/NRD90M) AppleWebKit/601.33 (KHTML, like Gecko)  Chrome/52.0.3272.243 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; U; Android 4.4; MOTOROLA RAZR Build/KVT49L) AppleWebKit/602.43 (KHTML, like Gecko)  Chrome/48.0.1343.130 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G920F-ORANGE Build/LMY47X) AppleWebKit/603.49 (KHTML, like Gecko)  Chrome/51.0.3445.221 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-A800 Build/LMY47X) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/49.0.1902.188 Mobile Safari/603.3
+android|Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-G900F Build/LRX21T) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/52.0.3710.329 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/47.0.1292.363 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/50.0.2305.310 Mobile Safari/600.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D332 Build/LRX22G) AppleWebKit/533.34 (KHTML, like Gecko)  Chrome/50.0.3134.315 Mobile Safari/603.4
+android|Mozilla/5.0 (Android; Android 4.4.1; LG-H200 Build/KOT49I) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/54.0.2998.136 Mobile Safari/602.9
+android|Mozilla/5.0 (Linux; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/50.0.3119.281 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-D921T1 Build/LRX22G) AppleWebKit/603.32 (KHTML, like Gecko)  Chrome/49.0.2992.182 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 4.4; E:number:20-23:22 Build/24.0.A.1.34) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/52.0.1682.253 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-G716T Build/JLS36C) AppleWebKit/535.12 (KHTML, like Gecko)  Chrome/55.0.2142.187 Mobile Safari/602.4
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-T534 Build/KOT49H) AppleWebKit/537.6 (KHTML, like Gecko)  Chrome/49.0.2233.238 Mobile Safari/537.6
+android|Mozilla/5.0 (Android; Android 7.1; Nexus 9X Build/NPD90G) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/51.0.2978.262 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; LG-D380 Build/KOT49H) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/49.0.3809.210 Mobile Safari/535.9
+android|Mozilla/5.0 (Android; Android 4.4.1; LG Optimus G Build/KRT16M) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/50.0.3382.169 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; Android 4.3.1; HTC One 801s Build/JLS36C) AppleWebKit/535.32 (KHTML, like Gecko)  Chrome/50.0.2414.389 Mobile Safari/534.6
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; Nokia 3410 Build/IMM76D) AppleWebKit/535.5 (KHTML, like Gecko)  Chrome/50.0.2368.243 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; U; Android 6.0; SM-D9350I Build/MMB29K) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/48.0.3004.164 Mobile Safari/534.6
+android|Mozilla/5.0 (Android; Android 5.0; HTC Butterfly S 901d Build/LRX22G) AppleWebKit/533.1 (KHTML, like Gecko)  Chrome/53.0.1160.130 Mobile Safari/603.6
+android|Mozilla/5.0 (Android; Android 4.4.4; LG-F200L Build/KOT49I) AppleWebKit/534.10 (KHTML, like Gecko)  Chrome/53.0.3314.107 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/53.0.2519.372 Mobile Safari/535.8
+android|Mozilla/5.0 (Linux; Android 4.3.1; SM-G320A Build/JLS36C) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/48.0.1993.220 Mobile Safari/535.6
+android|Mozilla/5.0 (Linux; U; Android 5.1; MOTO XT1580 Build/LPK23) AppleWebKit/602.41 (KHTML, like Gecko)  Chrome/50.0.2588.331 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One M8 Pro Build/MRA58K) AppleWebKit/533.45 (KHTML, like Gecko)  Chrome/47.0.3511.281 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; U; Android 7.1; LG-H920 Build/NRD90M) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/49.0.2640.288 Mobile Safari/602.9
+android|Mozilla/5.0 (Linux; Android 4.4.1; Nokia 3410 Build/IMM76D) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/48.0.3101.146 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D930K Build/KOT49I) AppleWebKit/603.33 (KHTML, like Gecko)  Chrome/50.0.1919.112 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; U; Android 7.0; Nexus 5P Build/NPD90G) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/55.0.1840.139 Mobile Safari/534.3
+android|Mozilla/5.0 (Android; Android 7.1.1; Nexus 6P Build/NME91E) AppleWebKit/536.4 (KHTML, like Gecko)  Chrome/53.0.3137.200 Mobile Safari/537.3
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC Butterfly S 919d Build/LRX22G) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/55.0.2537.201 Mobile Safari/602.5
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-G420 Build/LRX22C) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/49.0.2257.297 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/49.0.1528.343 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; Android 7.1.1; Nexus 8X Build/NME91E) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/49.0.1653.299 Mobile Safari/601.5
+android|Mozilla/5.0 (Linux; Android 4.3.1; HP Compaq 2310b Build/JLS36C) AppleWebKit/533.23 (KHTML, like Gecko)  Chrome/53.0.1245.152 Mobile Safari/533.8
+android|Mozilla/5.0 (Linux; Android 4.4; XT1060 Build/SU6-7.3) AppleWebKit/533.10 (KHTML, like Gecko)  Chrome/49.0.2701.328 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/601.37 (KHTML, like Gecko)  Chrome/54.0.2239.148 Mobile Safari/536.1
+android|Mozilla/5.0 (Android; Android 4.4; LG Optimus G Build/KRT16M) AppleWebKit/602.22 (KHTML, like Gecko)  Chrome/54.0.1262.147 Mobile Safari/600.3
+android|Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-G900T Build/KOT49H) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/54.0.1994.357 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; Android 6.0; SM-D928F Build/MMB29V) AppleWebKit/534.13 (KHTML, like Gecko)  Chrome/51.0.2627.285 Mobile Safari/603.3
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/50.0.3750.304 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; U; Android 7.0; LG-H900 Build/NRD90M) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/52.0.3501.230 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/600.6 (KHTML, like Gecko)  Chrome/53.0.3415.355 Mobile Safari/534.9
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Samsung Galaxy S4 Mega GT-I8900 Build/JDQ39) AppleWebKit/533.22 (KHTML, like Gecko)  Chrome/50.0.3014.296 Mobile Safari/537.0
+android|Mozilla/5.0 (Android; Android 6.0; HTC Onemini 2 Build/MRA58K) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/53.0.1444.391 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/53.0.3524.244 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; U; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/536.29 (KHTML, like Gecko)  Chrome/55.0.1641.196 Mobile Safari/535.1
+android|Mozilla/5.0 (Android; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/54.0.1615.239 Mobile Safari/600.3
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; MOTO X PLAY XT1562 Build/LPC23) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/51.0.2670.372 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; U; Android 4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/48.0.1238.284 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC Onemini 2 dual sim Build/MRA58K) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/51.0.1910.170 Mobile Safari/534.1
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G935FQ Build/LMY47X) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/51.0.2089.374 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G925L Build/LRX22G) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/49.0.1885.155 Mobile Safari/533.1
+android|Mozilla/5.0 (Android; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/55.0.3224.201 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; Android 5.0.2; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/54.0.2548.121 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; U; Android 5.0; SM-G908T1 Build/KOT49I) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/55.0.3251.386 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; Android 4.4.4; SAMSUNG-SGH-I337 Build/KOT49H) AppleWebKit/601.48 (KHTML, like Gecko)  Chrome/52.0.1921.275 Mobile Safari/534.7
+android|Mozilla/5.0 (Android; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/537.10 (KHTML, like Gecko)  Chrome/53.0.3201.372 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; Android 6.0; HTC OneS Build/MRA58K) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/50.0.2219.332 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; U; Android 6.0; SM-D93508 Build/MMB29K) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/52.0.1910.296 Mobile Safari/536.3
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-G856T Build/LMY47X) AppleWebKit/603.38 (KHTML, like Gecko)  Chrome/47.0.2206.315 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 4.4; E:number:20-23:00 Build/24.0.B.1.34) AppleWebKit/536.26 (KHTML, like Gecko)  Chrome/52.0.1566.323 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; Android 5.0.2; LG-D329 Build/LRX22G) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/47.0.2571.288 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/51.0.2481.229 Mobile Safari/535.5
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC Butterfly S 919 Build/LRX22G) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/55.0.3584.200 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D721 Build/LRX22G) AppleWebKit/533.6 (KHTML, like Gecko)  Chrome/48.0.2115.323 Mobile Safari/536.3
+android|Mozilla/5.0 (Android; Android 7.1.1; Nexus 6P Build/NPD90G) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/55.0.3472.328 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; ALCATEL ONE TOUCH 7049D Build/KOT49H) AppleWebKit/534.9 (KHTML, like Gecko)  Chrome/48.0.3522.308 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NME91E) AppleWebKit/535.32 (KHTML, like Gecko)  Chrome/50.0.2641.339 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/54.0.2166.250 Mobile Safari/536.7
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D330 Build/LRX22G) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/55.0.2337.287 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D724 Build/LRX22G) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/47.0.3907.161 Mobile Safari/537.3
+android|Mozilla/5.0 (Android; Android 4.4.1; MOTOROLA RAZR Build/KVT49L) AppleWebKit/533.39 (KHTML, like Gecko)  Chrome/51.0.1940.354 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; Android 4.4.1; Google Nexus 6 Build/KOT49H) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/47.0.1042.111 Mobile Safari/534.5
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-G920FQ Build/KTU84F) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/49.0.3773.147 Mobile Safari/603.6
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-N915V Build/LRX22C) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/48.0.1121.112 Mobile Safari/600.5
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One0P6B Build/MRA58K) AppleWebKit/535.25 (KHTML, like Gecko)  Chrome/51.0.2695.342 Mobile Safari/537.9
+android|Mozilla/5.0 (Android; Android 4.4.1; Nokia 3310 Build/IMM76D) AppleWebKit/537.16 (KHTML, like Gecko)  Chrome/49.0.1856.208 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; Android 5.0.1; SM-D938T Build/LMY47X) AppleWebKit/602.16 (KHTML, like Gecko)  Chrome/54.0.1617.145 Mobile Safari/535.4
+android|Mozilla/5.0 (Android; Android 5.0; SM-N910FY Build/LRX22C) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/54.0.2113.158 Mobile Safari/603.4
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G935X Build/LMY47X) AppleWebKit/536.45 (KHTML, like Gecko)  Chrome/51.0.2040.219 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 7.0; GT-I9800 Build/KTU84P) AppleWebKit/536.33 (KHTML, like Gecko)  Chrome/52.0.2946.398 Mobile Safari/533.1
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D700 Build/LRX22G) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/55.0.3433.110 Mobile Safari/603.7
+android|Mozilla/5.0 (Android; Android 4.4.4; XT1025 Build/[KXB20.9|KXC21.5]) AppleWebKit/600.8 (KHTML, like Gecko)  Chrome/53.0.2569.190 Mobile Safari/603.6
+android|Mozilla/5.0 (Linux; Android 5.0; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/53.0.1655.400 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-E989 Build/KOT49I) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/52.0.3578.101 Mobile Safari/534.9
+android|Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G9258 Build/KTU84F) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/49.0.1484.139 Mobile Safari/602.9
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2t Build/LRX22G) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/49.0.2483.309 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/48.0.2853.228 Mobile Safari/601.6
+android|Mozilla/5.0 (Android; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/53.0.2699.387 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; U; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/600.19 (KHTML, like Gecko)  Chrome/55.0.2828.272 Mobile Safari/537.2
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/601.37 (KHTML, like Gecko)  Chrome/52.0.2296.180 Mobile Safari/537.3
+android|Mozilla/5.0 (Linux; Android 4.4.4; Lenovo P782 Build/Lenovo) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/53.0.3172.174 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G928M Build/LRX22G) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/53.0.3132.385 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; U; Android 5.0; SM-A800F Build/LRX22G) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/48.0.3875.282 Mobile Safari/601.7
+android|Mozilla/5.0 (Android; Android 7.0; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/602.1 (KHTML, like Gecko)  Chrome/52.0.1692.216 Mobile Safari/537.0
+android|Mozilla/5.0 (Android; Android 6.0; SM-D925I Build/MDB08L) AppleWebKit/533.6 (KHTML, like Gecko)  Chrome/55.0.2274.147 Mobile Safari/537.7
+android|Mozilla/5.0 (Android; Android 5.0.2; HTC Butterfly S 901s Build/LRX22G) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/53.0.1608.116 Mobile Safari/603.0
+android|Mozilla/5.0 (Android; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/601.44 (KHTML, like Gecko)  Chrome/52.0.2130.290 Mobile Safari/534.5
+android|Mozilla/5.0 (Android; Android 6.0; Nexus 7 Build/MDB08I) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/55.0.1970.236 Mobile Safari/602.4
+android|Mozilla/5.0 (Linux; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/52.0.2948.216 Mobile Safari/533.8
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One809d Build/MRA58K) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/49.0.3704.369 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L10) AppleWebKit/603.44 (KHTML, like Gecko)  Chrome/53.0.1483.370 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G920L Build/LMY47X) AppleWebKit/600.36 (KHTML, like Gecko)  Chrome/48.0.3654.324 Mobile Safari/533.1
+android|Mozilla/5.0 (Linux; Android 4.4.4; ALCATEL ONE TOUCH 7034E Build/KOT49H) AppleWebKit/534.29 (KHTML, like Gecko)  Chrome/55.0.2485.377 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G925X Build/LMY47X) AppleWebKit/603.24 (KHTML, like Gecko)  Chrome/49.0.1674.384 Mobile Safari/600.2
+android|Mozilla/5.0 (Android; Android 6.0; HTC One0P8B2 Build/MRA58K) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/53.0.3565.240 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; Android 4.4; XT1070 Build/SU6-7.3) AppleWebKit/535.43 (KHTML, like Gecko)  Chrome/47.0.2583.169 Mobile Safari/601.0
+android|Mozilla/5.0 (Linux; Android 7.1.1; GT-I9100 Build/KTU84P) AppleWebKit/536.16 (KHTML, like Gecko)  Chrome/51.0.3346.169 Mobile Safari/533.9
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; GT-I9300N Build/KOT49H) AppleWebKit/602.3 (KHTML, like Gecko)  Chrome/53.0.3193.221 Mobile Safari/600.9
+android|Mozilla/5.0 (Android; Android 5.0; SM-D804F Build/LRX22G) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/55.0.2421.276 Mobile Safari/600.8
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-G450 Build/LRX22C) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/51.0.3280.264 Mobile Safari/533.3
+android|Mozilla/5.0 (Android; Android 4.4.1; LG-V600 Build/KOT49I) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/54.0.3104.134 Mobile Safari/534.9
+android|Mozilla/5.0 (Android; Android 5.0.2; HTC Butterfly S 919d Build/LRX22G) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/53.0.2296.100 Mobile Safari/601.8
+android|Mozilla/5.0 (Android; Android 7.1; LG-H910 Build/NRD90C) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/52.0.1947.188 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; Android 5.1.1; MOTOROLA MOTO G Build/LMY47Z) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/52.0.3292.295 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/533.34 (KHTML, like Gecko)  Chrome/48.0.1755.228 Mobile Safari/534.3
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/54.0.3360.117 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G928I Build/LMY47X) AppleWebKit/600.46 (KHTML, like Gecko)  Chrome/49.0.2350.251 Mobile Safari/603.7
+android|Mozilla/5.0 (Linux; Android 7.1.1; Nexus 8X Build/NPD90G) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/50.0.3218.237 Mobile Safari/533.8
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350FD Build/MMB29M) AppleWebKit/533.49 (KHTML, like Gecko)  Chrome/51.0.3370.252 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 7.1; Pixel C Build/NME91E) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/47.0.3651.130 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; U; Android 7.1; Pixel C Build/NME91E) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/47.0.3567.392 Mobile Safari/601.3
+android|Mozilla/5.0 (Android; Android 5.0.2; LG-D331 Build/LRX22G) AppleWebKit/533.21 (KHTML, like Gecko)  Chrome/47.0.3931.341 Mobile Safari/536.2
+android|Mozilla/5.0 (Android; Android 6.0.1; SM-D9350S Build/MDB08I) AppleWebKit/535.7 (KHTML, like Gecko)  Chrome/55.0.2979.252 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; Android 7.0; Xperia Build/NDE63X) AppleWebKit/536.31 (KHTML, like Gecko)  Chrome/53.0.2143.175 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; Android 4.4.4; [HM NOTE|NOTE-III|NOTE2 1LTETD) AppleWebKit/536.17 (KHTML, like Gecko)  Chrome/48.0.3886.124 Mobile Safari/534.5
+android|Mozilla/5.0 (Linux; Android 5.1; MOTO XT1570 MOTO X STYLE Build/LPC23) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/54.0.3767.144 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-D708 Build/LRX22G) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/55.0.1808.219 Mobile Safari/534.3
+android|Mozilla/5.0 (Android; Android 6.0.1; SM-G9350F Build/MDB08L) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/54.0.1254.363 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 4.4; LG Optimus G Build/KRT16M) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/52.0.2986.141 Mobile Safari/603.1
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/50.0.2933.231 Mobile Safari/602.4
+android|Mozilla/5.0 (Android; Android 5.0; HTC Butterfly S 919 Build/LRX22G) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/48.0.1408.176 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/49.0.2171.164 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-E500F Build/KTU84P) AppleWebKit/537.31 (KHTML, like Gecko)  Chrome/49.0.1542.281 Mobile Safari/537.2
+android|Mozilla/5.0 (Linux; Android 4.4.4; IQ4500 Quad Build/KOT49H) AppleWebKit/534.26 (KHTML, like Gecko)  Chrome/50.0.2835.139 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/535.31 (KHTML, like Gecko)  Chrome/49.0.2422.264 Mobile Safari/601.8
+android|Mozilla/5.0 (Android; Android 5.1; Nexus 7 Build/LMY48B) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/49.0.1940.180 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G928L Build/LRX22G) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/48.0.2608.313 Mobile Safari/602.5
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC 80:number1-2e Build/JSS15J) AppleWebKit/533.36 (KHTML, like Gecko)  Chrome/55.0.1589.259 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia 3410 Build/IMM76D) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/54.0.2415.144 Mobile Safari/534.5
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-D942T1 Build/LMY47X) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/52.0.1328.163 Mobile Safari/535.8
+android|Mozilla/5.0 (Android; Android 4.4.4; Nexus5 V7.1 Build/KOT49H) AppleWebKit/535.22 (KHTML, like Gecko)  Chrome/55.0.2016.114 Mobile Safari/537.7
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/602.21 (KHTML, like Gecko)  Chrome/54.0.3676.132 Mobile Safari/600.1
+android|Mozilla/5.0 (Android; Android 5.1.1; Nexus 5 Build/LMY48B) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/55.0.3080.353 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus_S_4G Build/GRJ22) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/54.0.3128.214 Mobile Safari/601.5
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/601.44 (KHTML, like Gecko)  Chrome/48.0.3032.290 Mobile Safari/600.4
+android|Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-T555 Build/LRX22G) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/47.0.3129.155 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/47.0.2615.253 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; Android 7.1.1; GT-I9100 Build/KTU84P) AppleWebKit/535.1 (KHTML, like Gecko)  Chrome/52.0.1509.219 Mobile Safari/535.0
+android|Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-T255a Build/JSS15J) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/53.0.2166.139 Mobile Safari/536.0
+android|Mozilla/5.0 (Android; Android 5.0.2; HTC 80:number1-2t Build/LRX22G) AppleWebKit/535.3 (KHTML, like Gecko)  Chrome/55.0.1465.102 Mobile Safari/600.6
+android|Mozilla/5.0 (Android; Android 4.4; IQ4502 Quad Build/KOT49H) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/48.0.2170.168 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; U; Android 4.4; Nexus S 4G Build/GRJ22) AppleWebKit/533.45 (KHTML, like Gecko)  Chrome/55.0.1681.107 Mobile Safari/536.8
+android|Mozilla/5.0 (Android; Android 4.4.1; LG-H210 Build/KOT49H) AppleWebKit/535.26 (KHTML, like Gecko)  Chrome/55.0.2408.273 Mobile Safari/533.9
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One_M8 Build/MRA58K) AppleWebKit/535.26 (KHTML, like Gecko)  Chrome/48.0.1706.169 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; Android 5.0.2; LG-D708 Build/LRX22G) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/53.0.3248.317 Mobile Safari/602.1
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/55.0.2398.240 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 8 Build/LMY48B) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/53.0.2904.109 Mobile Safari/537.9
+android|Mozilla/5.0 (Android; Android 5.0; LG-D728 Build/LRX22G) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/50.0.2837.132 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 8 Build/LMY48B) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/53.0.3616.265 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G9350H Build/MMB29M) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/50.0.2655.131 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; Nokia 1000 LTE Build/GRK39F) AppleWebKit/602.49 (KHTML, like Gecko)  Chrome/54.0.3413.350 Mobile Safari/602.8
+android|Mozilla/5.0 (Android; Android 4.3.1; SM-G3630T Build/JLS36C) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/55.0.1059.194 Mobile Safari/534.5
+android|Mozilla/5.0 (Linux; Android 4.3.1; HUAWEI G6-L10 Build/HuaweiG6-L10) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/47.0.3879.143 Mobile Safari/603.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; XT1049 Build/[KXB20.9|KXC21.5]) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/50.0.2288.352 Mobile Safari/534.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; SM-N8010 Build/JZO54K) AppleWebKit/533.39 (KHTML, like Gecko)  Chrome/48.0.3456.374 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; Android 4.4.1; Nexus S Build/GRJ22) AppleWebKit/536.29 (KHTML, like Gecko)  Chrome/55.0.1830.200 Mobile Safari/600.6
+android|Mozilla/5.0 (Linux; Android 4.3.1; SM-N716T Build/JLS36C) AppleWebKit/535.17 (KHTML, like Gecko)  Chrome/50.0.2091.189 Mobile Safari/535.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; SGH-I337M Build/KOT49H) AppleWebKit/537.4 (KHTML, like Gecko)  Chrome/50.0.2331.354 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 4.4.1; XT1026 Build/[KXB20.9|KXC21.5]) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/52.0.1781.257 Mobile Safari/536.4
+android|Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D9350I Build/MDB08I) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/52.0.3918.372 Mobile Safari/535.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/53.0.3240.226 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900L Build/KTU84F) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/49.0.1274.372 Mobile Safari/537.8
+android|Mozilla/5.0 (Linux; Android 7.1; Pixel C Build/NRD90M) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/51.0.1084.131 Mobile Safari/537.1
+android|Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG-SM-N910A Build/LRX22C) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/52.0.3253.314 Mobile Safari/534.2
+android|Mozilla/5.0 (Linux; Android 6.0; Nexus 6P Build/MDB08I) AppleWebKit/535.44 (KHTML, like Gecko)  Chrome/47.0.3990.128 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; U; Android 4.4; LG-E988 Build/KOT49I) AppleWebKit/600.22 (KHTML, like Gecko)  Chrome/55.0.2986.113 Mobile Safari/536.7
+android|Mozilla/5.0 (Linux; U; Android 7.0; LG-H900 Build/NRD90C) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/52.0.1597.323 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Samsung Galaxy S4 Mega GT-I9100 Build/JDQ39) AppleWebKit/533.43 (KHTML, like Gecko)  Chrome/55.0.2137.271 Mobile Safari/601.0
+android|Mozilla/5.0 (Linux; Android 4.3.1; HTC One max Build/JSS15J) AppleWebKit/600.32 (KHTML, like Gecko)  Chrome/47.0.3717.101 Mobile Safari/534.2
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 5P Build/MMB29V) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/50.0.1278.384 Mobile Safari/537.3
+android|Mozilla/5.0 (Linux; U; Android 7.1; GT-I9400 Build/KTU84P) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/49.0.3993.285 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; U; Android 7.1; Pixel C Build/NME91E) AppleWebKit/534.39 (KHTML, like Gecko)  Chrome/47.0.3843.293 Mobile Safari/537.5
+android|Mozilla/5.0 (Android; Android 4.3.1; HTC One max Build/JSS15J) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/53.0.1808.164 Mobile Safari/600.8
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 Build/MRA58K) AppleWebKit/534.1 (KHTML, like Gecko)  Chrome/51.0.1741.111 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G935L Build/LMY47X) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/53.0.2270.375 Mobile Safari/534.1
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HTC Xplorer A300e Build/GRJ90) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/49.0.1342.382 Mobile Safari/533.2
+android|Mozilla/5.0 (Android; Android 4.4; E:number:20-23:34 Build/24.0.A.1.34) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/47.0.1520.396 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 7 Build/LMY48B) AppleWebKit/536.44 (KHTML, like Gecko)  Chrome/55.0.3364.294 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; SAMSUNG GT-I9600 Build/KTU84P) AppleWebKit/537.9 (KHTML, like Gecko)  Chrome/49.0.1506.349 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NME91E) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/53.0.1634.165 Mobile Safari/534.4
+android|Mozilla/5.0 (Android; Android 7.1; LG-H910 Build/NRD90C) AppleWebKit/601.21 (KHTML, like Gecko)  Chrome/53.0.3841.376 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F-ORANGE Build/LRX22G) AppleWebKit/536.11 (KHTML, like Gecko)  Chrome/50.0.3358.142 Mobile Safari/536.3
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G920L Build/LMY47X) AppleWebKit/534.19 (KHTML, like Gecko)  Chrome/53.0.3282.194 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/49.0.2660.397 Mobile Safari/601.1
+android|Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/534.40 (KHTML, like Gecko)  Chrome/51.0.2443.186 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; U; Android 6.0; SAMSUNG SM-D928M Build/MDB08I) AppleWebKit/536.45 (KHTML, like Gecko)  Chrome/50.0.1687.260 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 8 Build/LRX22C) AppleWebKit/535.32 (KHTML, like Gecko)  Chrome/48.0.1055.130 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 6.0.1; Nexus 7X Build/MMB29V) AppleWebKit/533.1 (KHTML, like Gecko)  Chrome/51.0.1776.164 Mobile Safari/534.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/55.0.2942.329 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/53.0.1285.370 Mobile Safari/602.6
+android|Mozilla/5.0 (Android; Android 6.0.1; SM-G9350V Build/MDB08L) AppleWebKit/535.12 (KHTML, like Gecko)  Chrome/53.0.1011.105 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-F200S Build/KOT49I) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/51.0.1187.373 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 6 Build/LRX22C) AppleWebKit/535.23 (KHTML, like Gecko)  Chrome/50.0.2402.316 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/534.15 (KHTML, like Gecko)  Chrome/54.0.1110.115 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; Android 7.0; LG-H930 Build/NRD90C) AppleWebKit/533.46 (KHTML, like Gecko)  Chrome/55.0.3541.117 Mobile Safari/600.5
+android|Mozilla/5.0 (Android; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/55.0.1563.135 Mobile Safari/600.9
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC 80:number1-2s Build/JSS15J) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/51.0.2566.111 Mobile Safari/600.7
+android|Mozilla/5.0 (Android; Android 6.0.1; Nexus 5X Build/MDB08L) AppleWebKit/601.27 (KHTML, like Gecko)  Chrome/49.0.3833.270 Mobile Safari/535.6
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; Nokia 1100 wifi Build/GRK39F) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/55.0.1301.212 Mobile Safari/535.7
+android|Mozilla/5.0 (Android; Android 4.3.1; HTC One max Build/JSS15J) AppleWebKit/534.15 (KHTML, like Gecko)  Chrome/54.0.2553.184 Mobile Safari/533.4
+android|Mozilla/5.0 (Android; Android 7.0; Nexus 9 Build/NPD90G) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/54.0.1271.400 Mobile Safari/600.3
+android|Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/535.7 (KHTML, like Gecko)  Chrome/49.0.1325.104 Mobile Safari/600.6
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SAMSUNG SM-N8000 Build/JZO54K) AppleWebKit/603.26 (KHTML, like Gecko)  Chrome/53.0.1187.250 Mobile Safari/534.7
+android|Mozilla/5.0 (Android; Android 5.0.2; SM-G925F-ORANGE Build/KOT49H) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/50.0.3608.168 Mobile Safari/535.1
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/602.30 (KHTML, like Gecko)  Chrome/53.0.1889.321 Mobile Safari/533.6
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2w Build/LRX22G) AppleWebKit/536.25 (KHTML, like Gecko)  Chrome/47.0.2062.246 Mobile Safari/535.3
+android|Mozilla/5.0 (Android; Android 7.1; Pixel C Build/NME91E) AppleWebKit/601.46 (KHTML, like Gecko)  Chrome/51.0.1500.288 Mobile Safari/536.8
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Pro Build/MRA58K) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/50.0.1420.102 Mobile Safari/533.2
+android|Mozilla/5.0 (Android; Android 5.0.2; LG-D716 Build/LRX22G) AppleWebKit/603.2 (KHTML, like Gecko)  Chrome/55.0.1987.169 Mobile Safari/535.7
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-T810 Build/LRX22G) AppleWebKit/601.27 (KHTML, like Gecko)  Chrome/52.0.2964.179 Mobile Safari/533.3
+android|Mozilla/5.0 (Android; Android 5.0; LG-D727 Build/LRX22G) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/52.0.2056.295 Mobile Safari/602.5
+android|Mozilla/5.0 (Linux; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/50.0.2888.396 Mobile Safari/603.6
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/537.25 (KHTML, like Gecko)  Chrome/55.0.1041.179 Mobile Safari/602.8
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G9350FQ Build/LMY47X) AppleWebKit/535.17 (KHTML, like Gecko)  Chrome/51.0.2266.122 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-T532 Build/KTU84P) AppleWebKit/533.10 (KHTML, like Gecko)  Chrome/53.0.1454.133 Mobile Safari/600.7
+android|Mozilla/5.0 (Android; Android 5.0; Nokia 1000 wifi Build/GRK39F) AppleWebKit/534.16 (KHTML, like Gecko)  Chrome/49.0.1851.400 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SGH-N065S Build/JSS15J) AppleWebKit/602.41 (KHTML, like Gecko)  Chrome/49.0.1940.211 Mobile Safari/603.1
+android|Mozilla/5.0 (Linux; U; Android 4.4; GT-I9405N Build/KOT49H) AppleWebKit/601.42 (KHTML, like Gecko)  Chrome/49.0.1887.295 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D815K Build/KVT49L) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/55.0.3059.318 Mobile Safari/603.1
+android|Mozilla/5.0 (Linux; Android 6.0; SAMSUNG SM-D925M Build/MDB08L) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/47.0.3717.229 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; Android 4.4.1; Nexus 7 Build/KTU84P) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/54.0.2533.376 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; Android 5.1; MOTO XT1575 Build/LPH223) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/52.0.1687.252 Mobile Safari/600.7
+android|Mozilla/5.0 (Android; Android 6.0; Nexus 5 Build/MMB29V) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/47.0.2484.248 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; Android 5.0; LG-D725 Build/LRX22G) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/52.0.3547.104 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; Android 4.4.1; Google Nexus 5 Build/KOT49H) AppleWebKit/600.28 (KHTML, like Gecko)  Chrome/49.0.2427.110 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; Android 4.4.4; Nokia 3210 Build/IMM76D) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/51.0.2948.195 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-J210F Build/KTU84P) AppleWebKit/535.13 (KHTML, like Gecko)  Chrome/51.0.3213.258 Mobile Safari/603.3
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG Optimus G Build/KRT16M) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/55.0.3296.287 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; Android 7.1.1; GT-I9100 Build/KTU84P) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/47.0.3800.304 Mobile Safari/603.1
+android|Mozilla/5.0 (Android; Android 4.4.4; Nexus S 4G Build/GRJ22) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/54.0.1351.259 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO E XT1021 Build/LXB22) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/48.0.2843.304 Mobile Safari/533.0
+android|Mozilla/5.0 (Android; Android 7.1; GT-I9700 Build/KTU84P) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/52.0.3505.167 Mobile Safari/537.3
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G920L Build/LRX22G) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/55.0.2184.132 Mobile Safari/600.0
+android|Mozilla/5.0 (Android; Android 4.3.1; HP Compaq 2310b Build/JSS15J) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/48.0.1696.377 Mobile Safari/534.2
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/535.20 (KHTML, like Gecko)  Chrome/49.0.2593.150 Mobile Safari/603.3
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/534.10 (KHTML, like Gecko)  Chrome/51.0.2775.192 Mobile Safari/602.2
+android|Mozilla/5.0 (Android; Android 6.0; SM-G928S Build/MMB29V) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/52.0.3213.270 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; Android 4.4; IQ4504 Quad Build/KOT49H) AppleWebKit/533.7 (KHTML, like Gecko)  Chrome/54.0.1698.296 Mobile Safari/536.8
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC Butterfly S 901 Build/LRX22G) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/48.0.2436.332 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/49.0.3850.354 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 5.0; LG-D334 Build/LRX22G) AppleWebKit/537.21 (KHTML, like Gecko)  Chrome/47.0.1262.121 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SGH-I337 Build/KOT49H) AppleWebKit/536.9 (KHTML, like Gecko)  Chrome/51.0.2677.238 Mobile Safari/600.4
+android|Mozilla/5.0 (Android; Android 4.4; SGH-I337M Build/JSS15J) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/55.0.2705.293 Mobile Safari/601.1
+android|Mozilla/5.0 (Linux; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/51.0.1755.117 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/602.7 (KHTML, like Gecko)  Chrome/51.0.1600.361 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; E:number:20-23:30 Build/24.0.A.1.34) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/48.0.1977.119 Mobile Safari/601.1
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G920FQ Build/LMY47X) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/49.0.2629.319 Mobile Safari/536.6
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO X PLAY XT1562 Build/LXB22) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/55.0.1993.316 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; Android 5.0; LG-D336 Build/LRX22G) AppleWebKit/603.36 (KHTML, like Gecko)  Chrome/48.0.2166.371 Mobile Safari/534.9
+android|Mozilla/5.0 (Android; Android 4.3.1; HTC One 801e Build/JSS15J) AppleWebKit/535.23 (KHTML, like Gecko)  Chrome/47.0.2400.378 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-D925I Build/MDB08L) AppleWebKit/603.45 (KHTML, like Gecko)  Chrome/55.0.1670.394 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; Android 6.0; SM-D920M Build/MMB29V) AppleWebKit/602.41 (KHTML, like Gecko)  Chrome/52.0.1551.249 Mobile Safari/536.4
+android|Mozilla/5.0 (Android; Android 6.0.1; SM-D925S Build/MDB08I) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/50.0.1759.228 Mobile Safari/537.6
+android|Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-G3316T Build/JLS36C) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/54.0.2198.310 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; Android 7.1; GT-I9400 Build/KTU84P) AppleWebKit/603.34 (KHTML, like Gecko)  Chrome/51.0.1145.145 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; U; Android 7.1; Pixel XL Build/NRD90M) AppleWebKit/533.6 (KHTML, like Gecko)  Chrome/54.0.2105.269 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D707 Build/LRX22G) AppleWebKit/534.24 (KHTML, like Gecko)  Chrome/51.0.3691.377 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; HTC 80:number1-2e Build/JSS15J) AppleWebKit/534.48 (KHTML, like Gecko)  Chrome/52.0.3475.177 Mobile Safari/537.4
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO X PLAY XT1562 Build/LPD23) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/51.0.2632.208 Mobile Safari/601.5
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; MOTOROLA RAZR Build/KVT49L) AppleWebKit/533.25 (KHTML, like Gecko)  Chrome/51.0.2314.107 Mobile Safari/537.7
+android|Mozilla/5.0 (Linux; Android 4.4; XT1080 Build/SU6-7.3) AppleWebKit/534.10 (KHTML, like Gecko)  Chrome/54.0.2534.346 Mobile Safari/601.7
+android|Mozilla/5.0 (Android; Android 6.0.1; SM-D9350L Build/MMB29K) AppleWebKit/603.44 (KHTML, like Gecko)  Chrome/52.0.3076.369 Mobile Safari/535.5
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; HTC Butterfly S 901 Build/LRX22G) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/51.0.1752.256 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-G900V Build/KOT49H) AppleWebKit/533.41 (KHTML, like Gecko)  Chrome/49.0.1757.225 Mobile Safari/535.6
+android|Mozilla/5.0 (Android; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/601.15 (KHTML, like Gecko)  Chrome/47.0.1364.173 Mobile Safari/534.3
+android|Mozilla/5.0 (Linux; Android 5.0; HTC 80:number1-2e Build/JSS15J) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/47.0.2793.355 Mobile Safari/533.2
+android|Mozilla/5.0 (Linux; Android 4.4; LG-E988 Build/KOT49I) AppleWebKit/537.33 (KHTML, like Gecko)  Chrome/48.0.3355.259 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; Android 4.4; SM-N8000 Build/KVT49L) AppleWebKit/536.16 (KHTML, like Gecko)  Chrome/55.0.3673.242 Mobile Safari/600.8
+android|Mozilla/5.0 (Android; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/603.5 (KHTML, like Gecko)  Chrome/52.0.3026.288 Mobile Safari/601.2
+android|Mozilla/5.0 (Android; Android 4.4.1; Nokia 3210 Build/IMM76D) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/53.0.3685.308 Mobile Safari/534.0
+android|Mozilla/5.0 (Android; Android 4.4; Nexus_ 10 Build/KOT49H) AppleWebKit/536.20 (KHTML, like Gecko)  Chrome/55.0.1117.330 Mobile Safari/533.7
+android|Mozilla/5.0 (Linux; U; Android 7.0; Nexus 7 Build/NME91E) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/47.0.3540.313 Mobile Safari/533.6
+android|Mozilla/5.0 (Linux; U; Android 4.4; LG-E987 Build/KOT49I) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/53.0.1174.386 Mobile Safari/534.5
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-N717S Build/JLS36C) AppleWebKit/603.33 (KHTML, like Gecko)  Chrome/53.0.2185.287 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SGH-N095S Build/JSS15J) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/55.0.1593.146 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 5.1; Nexus 7 Build/LRX22C) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/47.0.2649.395 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/601.33 (KHTML, like Gecko)  Chrome/53.0.3046.322 Mobile Safari/537.4
+android|Mozilla/5.0 (Linux; Android 4.3.1; Nokia 3115 Build/IMM76D) AppleWebKit/535.17 (KHTML, like Gecko)  Chrome/52.0.3698.324 Mobile Safari/537.8
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D722 Build/LRX22G) AppleWebKit/600.2 (KHTML, like Gecko)  Chrome/51.0.3244.118 Mobile Safari/537.1
+android|Mozilla/5.0 (Android; Android 5.0.2; Nokia 1100 LTE Build/GRK39F) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/53.0.2998.323 Mobile Safari/602.0
+android|Mozilla/5.0 (Linux; U; Android 4.4; Nexus_S_Build/GRJ22) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/53.0.2908.367 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 6 Build/LRX22C) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/47.0.3740.381 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; Android 6.0.1; SM-G920S Build/MMB29K) AppleWebKit/603.35 (KHTML, like Gecko)  Chrome/51.0.2979.375 Mobile Safari/600.4
+android|Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/53.0.2103.331 Mobile Safari/601.0
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M9 dual sim Build/MRA58K) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/51.0.3009.373 Mobile Safari/602.5
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/601.44 (KHTML, like Gecko)  Chrome/47.0.2973.129 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; Android 7.1; GT-I9600 Build/KTU84P) AppleWebKit/533.43 (KHTML, like Gecko)  Chrome/48.0.2414.206 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 7 Build/LRX22C) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/47.0.3349.230 Mobile Safari/536.9
+android|Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG-SM-N910V Build/LRX22C) AppleWebKit/535.22 (KHTML, like Gecko)  Chrome/53.0.3661.391 Mobile Safari/603.7
+android|Mozilla/5.0 (Android; Android 7.0; Nexus 5P Build/NME91E) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/55.0.2005.296 Mobile Safari/601.3
+android|Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-P710 Build/LRX22G) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/52.0.3410.326 Mobile Safari/534.7
+android|Mozilla/5.0 (Linux; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/49.0.1321.225 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G300 Build/JLS36I) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/53.0.1576.342 Mobile Safari/533.6
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/534.15 (KHTML, like Gecko)  Chrome/50.0.3352.224 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; Android 6.0; Nexus 7P Build/MMB29K) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/50.0.2869.303 Mobile Safari/533.1
+android|Mozilla/5.0 (Android; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/55.0.2028.155 Mobile Safari/600.8
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D720 Build/LRX22G) AppleWebKit/602.22 (KHTML, like Gecko)  Chrome/55.0.3198.154 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; U; Android 4.4; Lenovo P771 Build/JRO03C) AppleWebKit/534.18 (KHTML, like Gecko)  Chrome/51.0.1106.119 Mobile Safari/601.0
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G935H Build/LMY47X) AppleWebKit/534.7 (KHTML, like Gecko)  Chrome/54.0.1253.123 Mobile Safari/536.6
+android|Mozilla/5.0 (Android; Android 4.3.1; HUAWEI G6-L10 Build/HuaweiG6-L10) AppleWebKit/534.19 (KHTML, like Gecko)  Chrome/48.0.3803.182 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LRX22C) AppleWebKit/534.4 (KHTML, like Gecko)  Chrome/47.0.2679.335 Mobile Safari/534.1
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D330 Build/LRX22G) AppleWebKit/534.8 (KHTML, like Gecko)  Chrome/51.0.1893.302 Mobile Safari/535.4
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 5 Build/LMY48B) AppleWebKit/535.23 (KHTML, like Gecko)  Chrome/54.0.1758.188 Mobile Safari/603.6
+android|Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-G450 Build/LRX22G) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/52.0.2310.284 Mobile Safari/536.8
+android|Mozilla/5.0 (Linux; Android 5.0; LG-D729 Build/LRX22G) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/54.0.3309.242 Mobile Safari/602.3
+android|Mozilla/5.0 (Android; Android 5.1.1; SM-G920FQ Build/LRX22G) AppleWebKit/536.23 (KHTML, like Gecko)  Chrome/54.0.2532.163 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-G952 Build/KOT49I) AppleWebKit/602.43 (KHTML, like Gecko)  Chrome/48.0.2972.115 Mobile Safari/535.9
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One M8 Pro Build/MRA58K) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/50.0.3456.321 Mobile Safari/601.6
+android|Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T355 Build/LRX22G) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/52.0.1982.268 Mobile Safari/536.4
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; SM-T805 Build/LRX22G) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/54.0.1626.374 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G9350F-ORANGE Build/LMY47X) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/48.0.3898.222 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-G900F-ORANGE Build/LRX21T) AppleWebKit/536.33 (KHTML, like Gecko)  Chrome/53.0.1822.241 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; U; Android 7.0; LG-H910 Build/NRD90C) AppleWebKit/534.26 (KHTML, like Gecko)  Chrome/53.0.2679.263 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; U; Android 4.4; Lenovo P785 Build/Lenovo) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/52.0.1517.349 Mobile Safari/537.2
+android|Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-T805 Build/LRX22G) AppleWebKit/537.26 (KHTML, like Gecko)  Chrome/51.0.3654.240 Mobile Safari/600.2
+android|Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-N9006 Build/KOT49H) AppleWebKit/602.4 (KHTML, like Gecko)  Chrome/53.0.3834.320 Mobile Safari/533.9
+android|Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90M) AppleWebKit/535.48 (KHTML, like Gecko)  Chrome/51.0.3847.133 Mobile Safari/537.7
+android|Mozilla/5.0 (Android; Android 5.0; LG-D703 Build/LRX22G) AppleWebKit/537.11 (KHTML, like Gecko)  Chrome/47.0.3094.132 Mobile Safari/537.7
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-F300S Build/KOT49I) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/49.0.1394.324 Mobile Safari/536.7
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC 80:number1-2w Build/LRX22G) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/49.0.1443.173 Mobile Safari/535.3
+android|Mozilla/5.0 (Android; Android 4.4.1; Nokia 3210 Build/IMM76D) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/55.0.1478.248 Mobile Safari/603.3
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/50.0.3952.303 Mobile Safari/601.1
+android|Mozilla/5.0 (Linux; U; Android 4.4; HTC Onemini 2 dual sim Build/KTU84L) AppleWebKit/537.15 (KHTML, like Gecko)  Chrome/47.0.1463.383 Mobile Safari/603.7
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; HTC 80:number1-2t Build/LRX22G) AppleWebKit/535.31 (KHTML, like Gecko)  Chrome/51.0.3285.184 Mobile Safari/602.9
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G920F Build/LRX22G) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/47.0.2419.263 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; Android 4.4.1; Lenovo P784 Build/JRO03C) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/55.0.2282.322 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-T533 Build/KTU84P) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/47.0.2570.195 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/535.28 (KHTML, like Gecko)  Chrome/47.0.1971.161 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 6 Build/KOT49H) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/48.0.1521.197 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG GT-I9505N Build/KOT49H) AppleWebKit/602.29 (KHTML, like Gecko)  Chrome/54.0.1561.324 Mobile Safari/537.9
+android|Mozilla/5.0 (Linux; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/603.37 (KHTML, like Gecko)  Chrome/49.0.2431.317 Mobile Safari/601.0
+android|Mozilla/5.0 (Linux; U; Android 4.4; SM-E500F Build/KTU84P) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/54.0.3435.140 Mobile Safari/536.3
+android|Mozilla/5.0 (Android; Android 4.4; XT1070 Build/SU6-7.3) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/49.0.2101.205 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; U; Android 6.0; Nexus 5X Build/MMB29V) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/54.0.3182.376 Mobile Safari/537.8
+android|Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-P810 Build/LRX22G) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/54.0.3474.158 Mobile Safari/602.5
+android|Mozilla/5.0 (Android; Android 4.4.1; HTC One_M8 Build/KOT49H) AppleWebKit/601.22 (KHTML, like Gecko)  Chrome/49.0.3837.178 Mobile Safari/537.0
+android|Mozilla/5.0 (Linux; Android 7.0; Xperia Build/NDE63X) AppleWebKit/533.42 (KHTML, like Gecko)  Chrome/47.0.1095.167 Mobile Safari/535.5
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/533.43 (KHTML, like Gecko)  Chrome/54.0.1359.297 Mobile Safari/600.6
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO XT1575 Build/LPD23) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/55.0.3851.305 Mobile Safari/535.6
+android|Mozilla/5.0 (Android; Android 4.4; SM-E500F Build/KTU84P) AppleWebKit/536.11 (KHTML, like Gecko)  Chrome/47.0.3455.314 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G928F-ORANGE Build/LRX22G) AppleWebKit/603.33 (KHTML, like Gecko)  Chrome/54.0.1668.345 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; Android 4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/53.0.1339.295 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; Android 6.0; SM-G928L Build/MDB08I) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/55.0.3956.361 Mobile Safari/533.0
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-D326 Build/LRX22G) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/50.0.1454.124 Mobile Safari/602.3
+android|Mozilla/5.0 (Linux; Android 7.1.1; GT-I9500 Build/KTU84P) AppleWebKit/536.1 (KHTML, like Gecko)  Chrome/48.0.1054.285 Mobile Safari/534.4
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G9208 Build/LMY47X) AppleWebKit/535.29 (KHTML, like Gecko)  Chrome/51.0.1110.182 Mobile Safari/603.3
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350M Build/LMY47X) AppleWebKit/537.33 (KHTML, like Gecko)  Chrome/47.0.2025.296 Mobile Safari/533.7
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SM-N8010 Build/KVT49L) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/48.0.3559.376 Mobile Safari/537.4
+android|Mozilla/5.0 (Android; Android 7.1.1; SAMSUNG GT-I9700 Build/KTU84P) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/48.0.1186.364 Mobile Safari/537.3
+android|Mozilla/5.0 (Android; Android 4.4.1; Nexus_S_4G Build/GRJ22) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/48.0.3391.168 Mobile Safari/537.0
+android|Mozilla/5.0 (Linux; Android 7.0; GT-I9800 Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko)  Chrome/47.0.2478.144 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; U; Android 7.0; GT-I9500 Build/KTU84P) AppleWebKit/535.23 (KHTML, like Gecko)  Chrome/51.0.1938.210 Mobile Safari/536.7
+android|Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/47.0.3412.160 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/47.0.1270.312 Mobile Safari/603.1
+android|Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G925FD Build/KOT49H) AppleWebKit/602.29 (KHTML, like Gecko)  Chrome/51.0.1857.219 Mobile Safari/537.7
+android|Mozilla/5.0 (Linux; U; Android 6.0; Nexus 6 Build/MDB08I) AppleWebKit/601.15 (KHTML, like Gecko)  Chrome/54.0.2360.373 Mobile Safari/603.7
+android|Mozilla/5.0 (Android; Android 5.0.1; SM-G450 Build/LRX22C) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/50.0.1891.229 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SM-J100F Build/KTU84P) AppleWebKit/534.37 (KHTML, like Gecko)  Chrome/49.0.3824.271 Mobile Safari/600.9
+android|Mozilla/5.0 (Android; Android 5.0.2; LG-D704 Build/LRX22G) AppleWebKit/534.6 (KHTML, like Gecko)  Chrome/52.0.3019.162 Mobile Safari/533.6
+android|Mozilla/5.0 (Linux; Android 4.4.4; SGH-I337 Build/JSS15J) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/50.0.2172.362 Mobile Safari/602.5
+android|Mozilla/5.0 (Android; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/533.9 (KHTML, like Gecko)  Chrome/49.0.1987.400 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/51.0.3219.176 Mobile Safari/536.5
+android|Mozilla/5.0 (Android; Android 6.0; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/47.0.2793.249 Mobile Safari/603.1
+android|Mozilla/5.0 (Linux; Android 7.1; Pixel XL Build/NRD90M) AppleWebKit/600.44 (KHTML, like Gecko)  Chrome/53.0.3037.329 Mobile Safari/534.2
+android|Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90M) AppleWebKit/603.23 (KHTML, like Gecko)  Chrome/55.0.1157.358 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; SM-N915FY Build/LRX22C) AppleWebKit/601.6 (KHTML, like Gecko)  Chrome/47.0.2620.357 Mobile Safari/537.1
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG GT-I9404N Build/KOT49H) AppleWebKit/537.8 (KHTML, like Gecko)  Chrome/51.0.2673.235 Mobile Safari/533.4
+android|Mozilla/5.0 (Android; Android 4.4.1; GT-I9305T Build/KOT49H) AppleWebKit/537.50 (KHTML, like Gecko)  Chrome/48.0.1294.295 Mobile Safari/534.5
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Nokia 3210 Build/IMM76D) AppleWebKit/602.21 (KHTML, like Gecko)  Chrome/47.0.2613.339 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G928I Build/LRX22G) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/48.0.1775.354 Mobile Safari/535.8
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2w Build/JSS15J) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/54.0.2612.112 Mobile Safari/603.6
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; ALCATEL ONETOUCH 7041A Build/KOT49H) AppleWebKit/536.47 (KHTML, like Gecko)  Chrome/55.0.2480.173 Mobile Safari/534.6
+android|Mozilla/5.0 (Linux; Android 5.0.1; SM-N910FY Build/LRX22C) AppleWebKit/534.7 (KHTML, like Gecko)  Chrome/54.0.1092.274 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; Android 7.0; LG-H920 Build/NRD90M) AppleWebKit/537.25 (KHTML, like Gecko)  Chrome/54.0.3242.296 Mobile Safari/533.8
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-T265t Build/JSS15J) AppleWebKit/535.25 (KHTML, like Gecko)  Chrome/49.0.3336.287 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-G900T Build/KOT49H) AppleWebKit/602.24 (KHTML, like Gecko)  Chrome/55.0.1465.270 Mobile Safari/536.8
+android|Mozilla/5.0 (Android; Android 4.4.4; LG-V400 Build/KOT49I) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/50.0.2378.108 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G310 Build/JLS36I) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/48.0.2352.202 Mobile Safari/535.8
+android|Mozilla/5.0 (Android; Android 4.4; Nokia 3110 Build/IMM76D) AppleWebKit/536.17 (KHTML, like Gecko)  Chrome/48.0.3749.137 Mobile Safari/537.3
+android|Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO XT1570 MOTO X STYLE Build/LPH223) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/53.0.2927.179 Mobile Safari/601.6
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-G9009D Build/KOT49H) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/48.0.3832.282 Mobile Safari/601.3
+android|Mozilla/5.0 (Android; Android 7.0; GT-I9700 Build/KTU84P) AppleWebKit/535.1 (KHTML, like Gecko)  Chrome/55.0.1811.128 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/50.0.3083.390 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; U; Android 6.0; SAMSUNG SM-G920F Build/MDB08I) AppleWebKit/602.38 (KHTML, like Gecko)  Chrome/54.0.1530.251 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-G900FG Build/KOT49H) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/54.0.3595.347 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/600.32 (KHTML, like Gecko)  Chrome/55.0.3336.390 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; Android 4.4; LG-H220 Build/KOT49H) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/53.0.1540.380 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G935F Build/LMY47X) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/50.0.1171.117 Mobile Safari/535.1
+android|Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-T800 Build/LRX22G) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/50.0.2946.168 Mobile Safari/600.7
+android|Mozilla/5.0 (Linux; Android 4.4.4; LG-F300K Build/KOT49I) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/52.0.2068.290 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; U; Android 5.0; SM-P805 Build/LRX22G) AppleWebKit/533.19 (KHTML, like Gecko)  Chrome/47.0.1057.144 Mobile Safari/534.4
+android|Mozilla/5.0 (Linux; Android 7.1.1; LG-H900 Build/NRD90M) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/52.0.1825.234 Mobile Safari/601.7
+android|Mozilla/5.0 (Android; Android 4.4; SAMSUNG-SGH-I337M Build/JSS15J) AppleWebKit/533.1 (KHTML, like Gecko)  Chrome/55.0.1528.380 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-P550 Build/LRX22G) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/54.0.1541.383 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 5.0.1; SM-G839T1 Build/LRX22G) AppleWebKit/536.6 (KHTML, like Gecko)  Chrome/51.0.2018.106 Mobile Safari/533.9
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/601.37 (KHTML, like Gecko)  Chrome/50.0.3906.130 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; Android 5.1; SM-G9350M Build/LMY47X) AppleWebKit/537.11 (KHTML, like Gecko)  Chrome/50.0.2608.185 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/50.0.2751.390 Mobile Safari/603.7
+android|Mozilla/5.0 (Linux; U; Android 6.0; Nexus 7 Build/MMB29V) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/51.0.2634.116 Mobile Safari/600.3
+android|Mozilla/5.0 (Linux; Android 5.0; SM-A700I Build/LMY47X) AppleWebKit/601.27 (KHTML, like Gecko)  Chrome/55.0.2397.118 Mobile Safari/603.9
+android|Mozilla/5.0 (Linux; Android 4.4.1; SM-E500L Build/KTU84P) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/53.0.1714.238 Mobile Safari/535.2
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G300 Build/JLS36I) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/54.0.2098.242 Mobile Safari/533.8
+android|Mozilla/5.0 (Android; Android 4.4; XT1021 Build/[KXB20.9|KXC21.5]) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/48.0.3058.174 Mobile Safari/600.4
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; SM-A700H Build/LMY47X) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/49.0.1867.343 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; Android 5.0; SM-G400 Build/LRX22C) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/47.0.1070.117 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-N8010 Build/KVT49L) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/48.0.1752.338 Mobile Safari/537.4
+android|Mozilla/5.0 (Linux; Android 4.4; XT1048 Build/[KXB20.9|KXC21.5]) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/50.0.1287.213 Mobile Safari/537.8
+android|Mozilla/5.0 (Android; Android 5.0; LG-D712 Build/LRX22G) AppleWebKit/536.50 (KHTML, like Gecko)  Chrome/55.0.3693.196 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; Android 5.1.1; Nexus 9 Build/LRX22C) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/53.0.2239.308 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC Onemini 2 dual sim Build/MRA58K) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/50.0.2479.377 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; Android 7.1.1; Nexus 9X Build/NME91E) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/49.0.3374.288 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One 801s Build/JSS15J) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/53.0.2956.116 Mobile Safari/534.5
+android|Mozilla/5.0 (Android; Android 4.3.1; HP 675 Notebook PC Build/JSS15J) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/49.0.2038.312 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One 801s Build/JLS36C) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/53.0.2920.319 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G925M Build/KTU84F) AppleWebKit/537.44 (KHTML, like Gecko)  Chrome/55.0.2278.234 Mobile Safari/537.6
+android|Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-D9208 Build/MDB08I) AppleWebKit/535.18 (KHTML, like Gecko)  Chrome/49.0.2036.117 Mobile Safari/602.7
+android|Mozilla/5.0 (Linux; U; Android 5.0; SM-G810T1 Build/LRX22G) AppleWebKit/603.41 (KHTML, like Gecko)  Chrome/55.0.3266.139 Mobile Safari/601.7
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D712 Build/LRX22G) AppleWebKit/534.16 (KHTML, like Gecko)  Chrome/47.0.2242.140 Mobile Safari/601.0
+android|Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/602.38 (KHTML, like Gecko)  Chrome/48.0.3255.144 Mobile Safari/601.6
+android|Mozilla/5.0 (Linux; U; Android 7.1; Nexus 9P Build/NME91E) AppleWebKit/533.49 (KHTML, like Gecko)  Chrome/47.0.1381.280 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; Android 5.1.1; MOTOROLA MOTO E XT1021 Build/LPD23) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/48.0.2143.389 Mobile Safari/533.6
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/603.34 (KHTML, like Gecko)  Chrome/49.0.2214.175 Mobile Safari/600.1
+android|Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-G9208 Build/MDB08L) AppleWebKit/602.11 (KHTML, like Gecko)  Chrome/53.0.3388.250 Mobile Safari/534.2
+android|Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO X PURE XT1575 Build/LPK23) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/49.0.2660.253 Mobile Safari/533.6
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One809d Build/MRA58K) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/54.0.1520.185 Mobile Safari/603.9
+android|Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9400 Build/KTU84P) AppleWebKit/537.13 (KHTML, like Gecko)  Chrome/54.0.1705.356 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SM-E500L Build/KTU84P) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/49.0.2319.220 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; SAMSUNG SM-G928I Build/MDB08L) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/50.0.2776.202 Mobile Safari/537.6
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/49.0.3448.397 Mobile Safari/536.3
+android|Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/51.0.1259.144 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; Android 4.4; Nexus_S_Build/GRJ22) AppleWebKit/600.32 (KHTML, like Gecko)  Chrome/54.0.3432.187 Mobile Safari/534.2
+android|Mozilla/5.0 (Linux; Android 4.4.4; Lenovo P775 Build/Lenovo) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/54.0.1045.347 Mobile Safari/603.8
+android|Mozilla/5.0 (Android; Android 7.1.1; LG-H920 Build/NRD90C) AppleWebKit/600.24 (KHTML, like Gecko)  Chrome/52.0.1648.135 Mobile Safari/600.8
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G900FD Build/KTU84F) AppleWebKit/535.50 (KHTML, like Gecko)  Chrome/51.0.1240.215 Mobile Safari/534.4
+android|Mozilla/5.0 (Android; Android 5.0; Nokia 1000 wifi Build/GRK39F) AppleWebKit/602.11 (KHTML, like Gecko)  Chrome/52.0.1466.271 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-E500L Build/KTU84P) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/52.0.1728.275 Mobile Safari/535.5
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-A700I Build/LRX22G) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/51.0.1667.296 Mobile Safari/534.2
+android|Mozilla/5.0 (Android; Android 7.1; Nexus 7 Build/NPD90G) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/49.0.1308.158 Mobile Safari/602.5
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G935M Build/LMY47X) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/47.0.3749.161 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D729 Build/LRX22G) AppleWebKit/536.4 (KHTML, like Gecko)  Chrome/55.0.3618.344 Mobile Safari/533.9
+android|Mozilla/5.0 (Android; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/537.44 (KHTML, like Gecko)  Chrome/55.0.1350.321 Mobile Safari/536.5
+android|Mozilla/5.0 (Linux; Android 4.4; IQ4500 Quad Build/KOT49H) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/55.0.1980.226 Mobile Safari/602.4
+android|Mozilla/5.0 (Android; Android 6.0; HTC One809d Build/MRA58K) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/47.0.3277.372 Mobile Safari/601.9
+android|Mozilla/5.0 (Android; Android 4.4; XT1060 Build/SU6-7.3) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/47.0.1062.124 Mobile Safari/537.8
+android|Mozilla/5.0 (Android; Android 4.4.4; SAMSUNG-SGH-I337M Build/KOT49H) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/55.0.3167.345 Mobile Safari/534.3
+android|Mozilla/5.0 (Linux; Android 5.0; SM-P710 Build/LRX22G) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/53.0.3007.181 Mobile Safari/603.6
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G920F Build/KTU84F) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/49.0.3700.229 Mobile Safari/603.8
+android|Mozilla/5.0 (Android; Android 6.0.1; Nexus 7X Build/MDB08I) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/52.0.3954.118 Mobile Safari/602.9
+android|Mozilla/5.0 (Android; Android 7.1; Nexus 9X Build/NME91E) AppleWebKit/602.16 (KHTML, like Gecko)  Chrome/54.0.3440.342 Mobile Safari/600.0
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; IQ4501 Quad Build/KOT49H) AppleWebKit/600.28 (KHTML, like Gecko)  Chrome/49.0.2529.229 Mobile Safari/600.5
+android|Mozilla/5.0 (Linux; U; Android 4.4; LG-E987 Build/KOT49I) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/53.0.1998.390 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L11) AppleWebKit/603.34 (KHTML, like Gecko)  Chrome/53.0.1129.187 Mobile Safari/534.1
+android|Mozilla/5.0 (Linux; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/48.0.1447.220 Mobile Safari/601.5
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 6X Build/MDB08L) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/54.0.2560.132 Mobile Safari/535.4
+android|Mozilla/5.0 (Linux; Android 5.0; LG-D724 Build/LRX22G) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/47.0.2030.205 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; Android 4.4.4; SM-N9006 Build/KOT49H) AppleWebKit/535.50 (KHTML, like Gecko)  Chrome/47.0.1996.259 Mobile Safari/536.8
+android|Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/47.0.3435.397 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; Android 5.0.1; SM-A700 Build/LMY47X) AppleWebKit/601.27 (KHTML, like Gecko)  Chrome/53.0.2350.231 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; Android 5.0.2; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/55.0.2393.210 Mobile Safari/535.6
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/533.24 (KHTML, like Gecko)  Chrome/54.0.2208.150 Mobile Safari/602.5
+android|Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/534.45 (KHTML, like Gecko)  Chrome/47.0.2921.218 Mobile Safari/536.9
+android|Mozilla/5.0 (Linux; Android 7.1; Nexus 8 Build/NME91E) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/49.0.2872.318 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One801e Build/MRA58K) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/54.0.1970.394 Mobile Safari/601.6
+android|Mozilla/5.0 (Android; Android 4.4; ALCATEL ONETOUCH 7030A Build/KOT49H) AppleWebKit/601.8 (KHTML, like Gecko)  Chrome/52.0.1723.148 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; U; Android 5.1; MOTOROLA MOTO G Build/LPK23) AppleWebKit/534.4 (KHTML, like Gecko)  Chrome/54.0.2823.146 Mobile Safari/602.8
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/48.0.3749.123 Mobile Safari/600.9
+android|Mozilla/5.0 (Android; Android 6.0; HTC One0P6B Build/MRA58K) AppleWebKit/600.18 (KHTML, like Gecko)  Chrome/55.0.1775.215 Mobile Safari/603.4
+android|Mozilla/5.0 (Android; Android 4.4.4; LG Optimus G Build/KRT16M) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/55.0.1689.327 Mobile Safari/537.0
+android|Mozilla/5.0 (Android; Android 6.0.1; HTC One801e dual sim Build/MRA58K) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/52.0.1162.141 Mobile Safari/601.3
+android|Mozilla/5.0 (Android; Android 5.0.2; LG-D725 Build/LRX22G) AppleWebKit/537.50 (KHTML, like Gecko)  Chrome/47.0.1220.341 Mobile Safari/537.8
+android|Mozilla/5.0 (Android; Android 5.0.2; Lenovo A7000-a Build/LRX21M;) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/55.0.1271.269 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; Android 4.4; Nexus S 4G Build/GRJ22) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/47.0.1408.142 Mobile Safari/534.5
+android|Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-T532 Build/KTU84P) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/52.0.3519.369 Mobile Safari/533.1
+android|Mozilla/5.0 (Linux; Android 4.3.1; SGH-N065S Build/JSS15J) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/47.0.1717.150 Mobile Safari/600.1
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; LG Optimus G Build/KRT16M) AppleWebKit/534.2 (KHTML, like Gecko)  Chrome/51.0.1299.322 Mobile Safari/603.2
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; SM-G400 Build/LRX22G) AppleWebKit/602.18 (KHTML, like Gecko)  Chrome/50.0.3805.209 Mobile Safari/534.6
+android|Mozilla/5.0 (Android; Android 4.4.1; E:number:20-23:33 Build/24.0.A.1.34) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/50.0.2724.266 Mobile Safari/534.5
+android|Mozilla/5.0 (Android; Android 5.1.1; Nexus 9 Build/LMY48B) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/53.0.2442.253 Mobile Safari/602.6
+android|Mozilla/5.0 (Linux; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/48.0.1722.106 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/55.0.1863.212 Mobile Safari/536.3
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; LG Optimus G Build/KRT16M) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/52.0.1096.288 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SGH-I337M Build/KOT49H) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/50.0.3449.382 Mobile Safari/536.3
+android|Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-G9350L Build/MDB08I) AppleWebKit/602.41 (KHTML, like Gecko)  Chrome/52.0.3618.148 Mobile Safari/533.3
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-D726 Build/LRX22G) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/47.0.2010.130 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; Android 7.1.1; GT-I9600 Build/KTU84P) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/53.0.2779.289 Mobile Safari/601.1
+android|Mozilla/5.0 (Android; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/49.0.2440.269 Mobile Safari/534.4
+android|Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G925FQ Build/LRX22G) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/51.0.3931.369 Mobile Safari/600.3
+android|Mozilla/5.0 (Linux; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/601.2 (KHTML, like Gecko)  Chrome/50.0.3474.308 Mobile Safari/602.0
+android|Mozilla/5.0 (Android; Android 5.1.1; SM-G925F Build/LRX22G) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/52.0.1312.160 Mobile Safari/600.3
+android|Mozilla/5.0 (Android; Android 5.0; HTC Butterfly S 901s Build/LRX22G) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/49.0.1431.324 Mobile Safari/534.4
+android|Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G920M Build/LRX22G) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/51.0.2976.274 Mobile Safari/537.7
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; Lenovo A7000-a Build/LRX21M;) AppleWebKit/537.16 (KHTML, like Gecko)  Chrome/47.0.1483.278 Mobile Safari/601.6
+android|Mozilla/5.0 (Linux; Android 7.1; LG-H930 Build/NRD90M) AppleWebKit/534.5 (KHTML, like Gecko)  Chrome/47.0.3402.164 Mobile Safari/535.0
+android|Mozilla/5.0 (Android; Android 4.4; SM-G900W8 Build/KOT49H) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/51.0.2586.179 Mobile Safari/536.9
+android|Mozilla/5.0 (Linux; Android 5.0; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/600.2 (KHTML, like Gecko)  Chrome/51.0.2913.279 Mobile Safari/600.3
+android|Mozilla/5.0 (Linux; Android 5.0.2; LG-D904I Build/LRX22G) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/47.0.2457.201 Mobile Safari/603.8
+android|Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G925FD Build/LRX22G) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/53.0.1808.222 Mobile Safari/600.9
+android|Mozilla/5.0 (Linux; U; Android 7.0; Nexus 9 Build/NME91E) AppleWebKit/600.22 (KHTML, like Gecko)  Chrome/50.0.2692.122 Mobile Safari/534.9
+android|Mozilla/5.0 (Android; Android 5.1; Nexus 7 Build/LMY48B) AppleWebKit/534.36 (KHTML, like Gecko)  Chrome/50.0.3264.134 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; U; Android 4.4; SM-G900FD Build/KOT49H) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/53.0.2113.379 Mobile Safari/602.1
+android|Mozilla/5.0 (Linux; Android 5.1.1; MOTO X PURE XT1575 Build/LPK23) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/49.0.1488.258 Mobile Safari/534.1
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 6 Build/MDB08L) AppleWebKit/533.14 (KHTML, like Gecko)  Chrome/47.0.2760.306 Mobile Safari/537.9
+android|Mozilla/5.0 (Android; Android 7.1; Pixel C Build/NME91E) AppleWebKit/534.2 (KHTML, like Gecko)  Chrome/55.0.3461.196 Mobile Safari/601.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; GT-I9600 Build/KTU84P) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/47.0.3284.219 Mobile Safari/601.6
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; GT-I9200 Build/JDQ39) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/52.0.3097.159 Mobile Safari/601.9
+android|Mozilla/5.0 (Linux; Android 5.0.2; LG-D716 Build/LRX22G) AppleWebKit/603.2 (KHTML, like Gecko)  Chrome/49.0.2777.329 Mobile Safari/602.3
+android|Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/534.3 (KHTML, like Gecko)  Chrome/49.0.2164.160 Mobile Safari/534.6
+android|Mozilla/5.0 (Android; Android 5.0; SM-A700H Build/LRX22G) AppleWebKit/533.42 (KHTML, like Gecko)  Chrome/53.0.2307.221 Mobile Safari/536.8
+android|Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-A800H Build/LMY47X) AppleWebKit/534.30 (KHTML, like Gecko)  Chrome/50.0.1160.288 Mobile Safari/602.4
+android|Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-P800 Build/LRX22G) AppleWebKit/533.49 (KHTML, like Gecko)  Chrome/53.0.1067.157 Mobile Safari/603.2
+android|Mozilla/5.0 (Android; Android 5.0.1; Nokia 1000 LTE Build/GRK39F) AppleWebKit/603.31 (KHTML, like Gecko)  Chrome/50.0.2110.283 Mobile Safari/601.3
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2e Build/LRX22G) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/55.0.2974.344 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/54.0.2243.345 Mobile Safari/537.5
+android|Mozilla/5.0 (Linux; U; Android 7.0; Pixel C Build/NME91E) AppleWebKit/537.25 (KHTML, like Gecko)  Chrome/51.0.1506.209 Mobile Safari/536.1
+android|Mozilla/5.0 (Linux; Android 5.0.1; LG-D337 Build/LRX22G) AppleWebKit/537.25 (KHTML, like Gecko)  Chrome/47.0.1962.284 Mobile Safari/533.3
+android|Mozilla/5.0 (Android; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/48.0.3170.203 Mobile Safari/601.2
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/52.0.3870.205 Mobile Safari/535.4
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; XT1016 Build/[KXB20.9|KXC21.5]) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/55.0.3682.355 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G925FG Build/LRX22G) AppleWebKit/603.24 (KHTML, like Gecko)  Chrome/53.0.2638.135 Mobile Safari/535.5
+android|Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/601.14 (KHTML, like Gecko)  Chrome/53.0.1859.366 Mobile Safari/601.4
+android|Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9600 Build/KTU84P) AppleWebKit/536.38 (KHTML, like Gecko)  Chrome/54.0.3257.363 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 4.3.1; HP Compaq 2110b Build/JSS15J) AppleWebKit/535.12 (KHTML, like Gecko)  Chrome/50.0.1333.226 Mobile Safari/601.5
+android|Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/601.39 (KHTML, like Gecko)  Chrome/52.0.1409.341 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; Android 5.1.1; SM-G928S Build/LRX22G) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/50.0.1195.319 Mobile Safari/603.4
+android|Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G935F Build/LMY47X) AppleWebKit/535.44 (KHTML, like Gecko)  Chrome/49.0.1425.163 Mobile Safari/535.3
+android|Mozilla/5.0 (Linux; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/537.49 (KHTML, like Gecko)  Chrome/47.0.3492.111 Mobile Safari/533.4
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; MOTOROLA MOTO XT1570 MOTO X STYLE Build/LPK23) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/51.0.2105.237 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; LG-H930 Build/NRD90M) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/49.0.2196.272 Mobile Safari/537.6
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D720 Build/LRX22G) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/50.0.1637.371 Mobile Safari/603.1
+android|Mozilla/5.0 (Linux; Android 7.1; Pixel C Build/NRD90M) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/48.0.2646.130 Mobile Safari/602.5
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; LG-E987 Build/KOT49I) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/48.0.3402.259 Mobile Safari/534.4
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/55.0.2426.372 Mobile Safari/536.6
+android|Mozilla/5.0 (Linux; Android 7.1.1; Nexus 5 Build/NME91E) AppleWebKit/600.22 (KHTML, like Gecko)  Chrome/54.0.3549.271 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/49.0.3998.127 Mobile Safari/601.8
+android|Mozilla/5.0 (Linux; U; Android 4.4.4; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/534.40 (KHTML, like Gecko)  Chrome/50.0.2215.282 Mobile Safari/603.5
+android|Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G420 Build/LRX22G) AppleWebKit/603.30 (KHTML, like Gecko)  Chrome/51.0.2380.107 Mobile Safari/602.2
+android|Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/52.0.3208.190 Mobile Safari/602.4
+android|Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LRX22C) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/51.0.3033.313 Mobile Safari/537.5
+android|Mozilla/5.0 (Android; Android 5.1; Nexus 9 Build/LMY48B) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/50.0.3024.128 Mobile Safari/535.8
+android|Mozilla/5.0 (Android; Android 5.0; SM-A800H Build/LMY47X) AppleWebKit/602.3 (KHTML, like Gecko)  Chrome/48.0.1241.174 Mobile Safari/603.0
+android|Mozilla/5.0 (Linux; U; Android 5.1; SM-G925M Build/LRX22G) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/53.0.3444.228 Mobile Safari/533.7
+android|Mozilla/5.0 (Android; Android 7.1; Nexus 7 Build/NME91E) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/54.0.3292.318 Mobile Safari/537.3
+android|Mozilla/5.0 (Linux; Android 5.0.1; HTC 80:number1-2t Build/JSS15J) AppleWebKit/603.28 (KHTML, like Gecko)  Chrome/54.0.2607.276 Mobile Safari/602.4
+android|Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D728 Build/LRX22G) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/47.0.3275.129 Mobile Safari/533.9
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D723 Build/LRX22G) AppleWebKit/534.13 (KHTML, like Gecko)  Chrome/54.0.3269.223 Mobile Safari/602.2
+android|Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO XT1580 Build/LPH223) AppleWebKit/600.17 (KHTML, like Gecko)  Chrome/49.0.1203.261 Mobile Safari/535.0
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; SM-N8010 Build/JZO54K) AppleWebKit/536.43 (KHTML, like Gecko)  Chrome/51.0.1868.181 Mobile Safari/601.7
+android|Mozilla/5.0 (Linux; U; Android 7.0; Xperia Build/NDE63X) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/55.0.1900.169 Mobile Safari/535.8
+android|Mozilla/5.0 (Linux; Android 4.4.4; GT-I9305V Build/KOT49H) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/47.0.1745.164 Mobile Safari/533.1
+android|Mozilla/5.0 (Android; Android 7.1; Nexus 6 Build/NME91E) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/52.0.3161.190 Mobile Safari/602.2
+android|Mozilla/5.0 (Linux; Android 5.1; Nexus 6 Build/LRX22C) AppleWebKit/602.42 (KHTML, like Gecko)  Chrome/47.0.2014.385 Mobile Safari/534.8
+android|Mozilla/5.0 (Android; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/537.34 (KHTML, like Gecko)  Chrome/55.0.3037.200 Mobile Safari/533.1
+android|Mozilla/5.0 (Linux; Android 5.0; SM-G410 Build/LRX22C) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/52.0.1009.347 Mobile Safari/537.7
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/602.24 (KHTML, like Gecko)  Chrome/54.0.2054.334 Mobile Safari/535.6
+android|Mozilla/5.0 (Android; Android 7.1; Pixel XL Build/NRD90M) AppleWebKit/600.39 (KHTML, like Gecko)  Chrome/48.0.2880.256 Mobile Safari/534.5
+android|Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/55.0.3568.385 Mobile Safari/601.6
+android|Mozilla/5.0 (Android; Android 7.1.1; Nexus 7X Build/NME91E) AppleWebKit/534.48 (KHTML, like Gecko)  Chrome/49.0.2663.321 Mobile Safari/534.4
+android|Mozilla/5.0 (Linux; Android 4.4.4; XT1028 Build/[KXB20.9|KXC21.5]) AppleWebKit/536.46 (KHTML, like Gecko)  Chrome/47.0.3366.335 Mobile Safari/537.3
+android|Mozilla/5.0 (Android; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L11) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/48.0.1427.260 Mobile Safari/537.1
+android|Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90M) AppleWebKit/537.34 (KHTML, like Gecko)  Chrome/51.0.3536.309 Mobile Safari/537.2
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-T815 Build/LRX22G) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/49.0.3048.260 Mobile Safari/534.6
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-G914V Build/JSS15J) AppleWebKit/602.25 (KHTML, like Gecko)  Chrome/48.0.3855.196 Mobile Safari/600.6
+android|Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G460 Build/LRX22C) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/49.0.2922.222 Mobile Safari/533.5
+android|Mozilla/5.0 (Linux; Android 5.0.2; SM-A700 Build/LMY47X) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/52.0.2742.252 Mobile Safari/534.0
+android|Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/534.43 (KHTML, like Gecko)  Chrome/55.0.2353.223 Mobile Safari/534.7
+android|Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-G3623T Build/JLS36C) AppleWebKit/601.24 (KHTML, like Gecko)  Chrome/48.0.3635.329 Mobile Safari/602.8
+android|Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/51.0.2109.397 Mobile Safari/534.5
+android|Mozilla/5.0 (Android; Android 6.0; SM-G93508 Build/MMB29V) AppleWebKit/536.23 (KHTML, like Gecko)  Chrome/50.0.1487.131 Mobile Safari/535.8
+android|Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 5 Build/MMB29K) AppleWebKit/533.1 (KHTML, like Gecko)  Chrome/51.0.2864.307 Mobile Safari/603.5
+android|Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-J100G Build/KTU84P) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/52.0.3815.280 Mobile Safari/536.9
+android|Mozilla/5.0 (Linux; U; Android 5.0; LG-D332 Build/LRX22G) AppleWebKit/534.16 (KHTML, like Gecko)  Chrome/53.0.2090.328 Mobile Safari/535.6
+android|Mozilla/5.0 (Linux; U; Android 5.1; Nexus 9 Build/LMY48B) AppleWebKit/536.9 (KHTML, like Gecko)  Chrome/48.0.1799.369 Mobile Safari/535.4
+android|Mozilla/5.0 (Linux; U; Android 7.1.1; LG-H910 Build/NRD90C) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/52.0.3098.213 Mobile Safari/601.1
+android|Mozilla/5.0 (Android; Android 5.0.1; SM-G400 Build/LRX22G) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/50.0.3030.178 Mobile Safari/537.6
+android|Mozilla/5.0 (Android; Android 4.4.4; GT-I9400T Build/KOT49H) AppleWebKit/533.25 (KHTML, like Gecko)  Chrome/54.0.3216.167 Mobile Safari/536.2
+android|Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G925FG Build/LMY47X) AppleWebKit/536.17 (KHTML, like Gecko)  Chrome/50.0.3502.375 Mobile Safari/537.0
+android|Mozilla/5.0 (Linux; Android 4.4; HTC OneS Build/KOT49H) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/54.0.3105.388 Mobile Safari/603.9
+android|Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G935T Build/LMY47X) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/53.0.2424.369 Mobile Safari/536.0
+android|Mozilla/5.0 (Linux; U; Android 4.4.1; LG-E989 Build/KOT49I) AppleWebKit/536.26 (KHTML, like Gecko)  Chrome/52.0.2152.231 Mobile Safari/535.3
+android|Mozilla/5.0 (Android; Android 5.0.1; LG-D712 Build/LRX22G) AppleWebKit/600.5 (KHTML, like Gecko)  Chrome/50.0.3689.311 Mobile Safari/534.8
+android|Mozilla/5.0 (Linux; U; Android 4.3.1; Nokia 3110 Build/IMM76D) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/55.0.1819.232 Mobile Safari/601.5
+android|Mozilla/5.0 (Android; Android 4.4.4; SM-J200F Build/KTU84P) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/55.0.3215.130 Mobile Safari/601.5
+android|Mozilla/5.0 (Android; Android 7.0; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/533.27 (KHTML, like Gecko)  Chrome/47.0.3693.327 Mobile Safari/601.1
