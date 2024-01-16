@@ -2368,7 +2368,7 @@ end)
 
 ChatAlert_Button.MouseButton1Click:Connect(function()
 	for i = 1,3 do
-		local args = {[1] = "\u🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥QOZE DATA OSHH🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥QOZE DATA OSHH🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥QOZE DATA OSHH🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥QOZE DATA OSHH🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥QOZE DATA OSHH🥶🥶🥶🥶🥶🥶🔥🔥🔥🔥🔥🔥",[2] = "All"}
+		local args = {[1] = "\u{205F}",[2] = "All"}
 		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 	end
 end)
@@ -3304,7 +3304,7 @@ end)
 
 
 PushAura_Button.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Invisible%20Gui'))()
+	loadstring(game:HttpGet('https://pastebin.com/raw/bEDDkqUB'))()
 end)
 
 
@@ -3392,10 +3392,6 @@ plr.CharacterAdded:Connect(function(x)
 	end
 	if PotionFling_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
 		ChangeToggleColor(PotionFling_Button)
-		SendNotify("WOLF","Snap : r2y0h",5)
-	end
-	if SpamMines_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
-		ChangeToggleColor(SpamMines_Button)
 		SendNotify("WOLF","Snap : r2y0h",5)
 	end
 	if Fly_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
