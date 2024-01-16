@@ -3297,14 +3297,14 @@ end)
 
 
 SpamMines_Button.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/bEDDkqUB'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float'))()
 end)
 
 
 
 
 PushAura_Button.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/bEDDkqUB'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Invisible%20Gui'))()
 end)
 
 
