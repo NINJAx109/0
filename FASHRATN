@@ -629,7 +629,7 @@ LethalCannons_Button.BorderSizePixel = 0
 LethalCannons_Button.Position = UDim2.new(0, 25, 0, 275)
 LethalCannons_Button.Size = UDim2.new(0, 150, 0, 30)
 LethalCannons_Button.Font = Enum.Font.Oswald
-LethalCannons_Button.Text = "چنە"
+LethalCannons_Button.Text = "ئەیم بوت"
 LethalCannons_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 LethalCannons_Button.TextScaled = true
 LethalCannons_Button.TextSize = 14.000
@@ -659,7 +659,7 @@ PotionDi_Button.BorderSizePixel = 0
 PotionDi_Button.Position = UDim2.new(0, 210, 0, 125)
 PotionDi_Button.Size = UDim2.new(0, 150, 0, 30)
 PotionDi_Button.Font = Enum.Font.Oswald
-PotionDi_Button.Text = "چنە"
+PotionDi_Button.Text = "مراقبا خەلکی"
 PotionDi_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 PotionDi_Button.TextScaled = true
 PotionDi_Button.TextSize = 14.000
@@ -674,7 +674,7 @@ VoidProtection_Button.BorderSizePixel = 0
 VoidProtection_Button.Position = UDim2.new(0, 25, 0, 175)
 VoidProtection_Button.Size = UDim2.new(0, 150, 0, 30)
 VoidProtection_Button.Font = Enum.Font.Oswald
-VoidProtection_Button.Text = "snap: r4y0h.ii"
+VoidProtection_Button.Text = "فڕین v2"
 VoidProtection_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 VoidProtection_Button.TextScaled = true
 VoidProtection_Button.TextSize = 14.000
@@ -2282,30 +2282,6 @@ PushAll_Button.MouseButton1Click:Connect(function()
 	TeleportTO(oldpos.X,oldpos.Y,oldpos.Z,"pos","safe")
 end)
 
-LethalCannons_Button.MouseButton1Click:Connect(function()
-	for i,v in pairs(CannonsFolders[1]:GetChildren()) do
-		if v.Name == "Cannon" then
-			pcall(function()
-				plr.Character.Humanoid:ChangeState(15)
-				task.wait(GetPing())
-				fireclickdetector(v.Cannon_Part.ClickDetector)
-				plr.CharacterAdded:Wait()
-				task.wait(1)
-			end)
-		end
-	end
-	for i,v in pairs(CannonsFolders[2]:GetChildren()) do
-		if v.Name == "Cannon" then
-			pcall(function()
-				plr.Character.Humanoid:ChangeState(15)
-				task.wait(GetPing())
-				fireclickdetector(v.Cannon_Part.ClickDetector)
-				plr.CharacterAdded:Wait()
-				task.wait(1)
-			end)
-		end
-	end
-end)
 
 ChatAlert_Button.MouseButton1Click:Connect(function()
 	for i = 1,3 do
@@ -3235,6 +3211,15 @@ Night_Button.MouseButton1Click:Connect(function()
 		SendNotify("WOLF","Snap : r4y0h.ii",10)
 	end
 end)
+LethalCannons_Button.MouseButton1Click:Connect(function()
+	loadstring(game:HttpGet('https://pastebin.com/raw/1Gp9c57U'))()
+end)
+
+
+PotionDi_Button.MouseButton1Click:Connect(function()
+	loadstring(game:HttpGet('https://pastebin.com/raw/2Ld8d027'))()
+end)
+
 
 PotionFling_Button.MouseButton1Click:Connect(function()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMael7/AvatarUnlocker/main/IceHub'))()
@@ -3258,7 +3243,7 @@ AntiRagdoll_Button.MouseButton1Click:Connect(function()
 end)
 
 VoidProtection_Button.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/iMgUE4st'))()
+	loadstring(game:HttpGet('https://pastebin.com/raw/XA1muVAz'))()
 end)
 
 
@@ -3330,10 +3315,6 @@ plr.CharacterAdded:Connect(function(x)
 	x:WaitForChild("Humanoid")
 	if SavedCheckpoint ~= nil then
 		TeleportTO(SavedCheckpoint.X,SavedCheckpoint.Y,SavedCheckpoint.Z,"pos","safe")
-	end
-	if PotionDi_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
-		ChangeToggleColor(PotionDi_Button)
-		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end
 	if Fly_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
 		ChangeToggleColor(Fly_Button)
