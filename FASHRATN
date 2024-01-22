@@ -569,7 +569,7 @@ PotionFling_Button.BorderSizePixel = 0
 PotionFling_Button.Position = UDim2.new(0, 210, 0, 75)
 PotionFling_Button.Size = UDim2.new(0, 150, 0, 30)
 PotionFling_Button.Font = Enum.Font.Oswald
-PotionFling_Button.Text = "Roblox"
+PotionFling_Button.Text = "Premiun💙"
 PotionFling_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 PotionFling_Button.TextScaled = true
 PotionFling_Button.TextSize = 14.000
@@ -2231,65 +2231,6 @@ AntiRagdollFunction = nil
 
 AntiMinesFunction = nil
 
-PotionFling_Button.MouseButton1Click:Connect(function()
-	ChangeToggleColor(PotionFling_Button)
-	if PotionFling_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
-		if CheckPotion() then
-			if PotionDi_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
-				ChangeToggleColor(PotionDi_Button)
-			end
-			PotionTool.Parent = plr.Character
-			local PFS, PFF = pcall(function()
-				PotionTool.InSide.Massless = true
-				PotionTool.Cap.Massless = true
-				PotionTool.Handle.Massless = true
-				PotionTool.GripUp = Vector3.new(0,1,0)
-				PotionTool.GripPos = Vector3.new(5000,-25,5000)
-				PotionTool.Parent = plr.Backpack
-				PotionTool.Parent = plr.Character
-			end)
-		else
-			ChangeToggleColor(PotionFling_Button)
-		end
-	else
-		PotionTool.Parent = plr.Character
-		local PFS, PFF = pcall(function()
-			PotionTool.InSide.Massless = false
-			PotionTool.Cap.Massless = false
-			PotionTool.Handle.Massless = false
-			PotionTool.GripUp = Vector3.new(0,1,0)
-			PotionTool.GripPos = Vector3.new(0.1,-0.5,0)
-			PotionTool.Parent = plr.Backpack
-			PotionTool.Parent = plr.Character
-		end)
-	end
-end)
-
-
-
-PotionDi_Button.MouseButton1Click:Connect(function()
-	ChangeToggleColor(PotionDi_Button)
-	if PotionDi_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
-		if CheckPotion() then
-			if PotionFling_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
-				ChangeToggleColor(PotionFling_Button)
-			end
-			PotionTool.Parent = plr.Character
-			PotionTool.GripUp = Vector3.new(1,0,0)
-			PotionTool.GripPos = Vector3.new(1.5, 0.5, -1.5)
-			PotionTool.Parent = plr.Backpack
-			PotionTool.Parent = plr.Character
-		else
-			ChangeToggleColor(PotionDi_Button)
-		end
-	else
-		PotionTool.Parent = plr.Character
-		PotionTool.GripUp = Vector3.new(0,1,0)
-		PotionTool.GripPos = Vector3.new(0.1,-0.5,0)
-		PotionTool.Parent = plr.Backpack
-		PotionTool.Parent = plr.Character
-	end
-end)
 
 
 FreePushTool_Button.MouseButton1Click:Connect(function()
@@ -3295,6 +3236,10 @@ Night_Button.MouseButton1Click:Connect(function()
 	end
 end)
 
+PotionFling_Button.MouseButton1Click:Connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMael7/AvatarUnlocker/main/IceHub'))()
+end)
+
 
 SpamMines_Button.MouseButton1Click:Connect(function()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float'))()
@@ -3388,10 +3333,6 @@ plr.CharacterAdded:Connect(function(x)
 	end
 	if PotionDi_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
 		ChangeToggleColor(PotionDi_Button)
-		SendNotify("WOLF","Snap : r4y0h.ii",5)
-	end
-	if PotionFling_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
-		ChangeToggleColor(PotionFling_Button)
 		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end
 	if Fly_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
