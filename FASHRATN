@@ -1,5 +1,5 @@
 if game.CoreGui:FindFirstChild("WOLFFOREVR") then
-	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "WOLF",Text = "سناپی ئەدد کە بو ئابدێتێن سکریپتێ : r2y0h",Duration = 15;})
+	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "WOLF",Text = "سناپی ئەدد کە بو ئابدێتێن سکریپتێ : r4y0h.ii",Duration = 15;})
 	return
 end
 local version = 2
@@ -411,7 +411,7 @@ TitleBarLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TitleBarLabel.BorderSizePixel = 0
 TitleBarLabel.Size = UDim2.new(1, 0, 0, 30)
 TitleBarLabel.Font = Enum.Font.Unknown
-TitleBarLabel.Text = "__________//WOLFFOREVR - K22\\\_________"
+TitleBarLabel.Text = "_______//WOLFFOREVR - K22😁\\\______"
 TitleBarLabel.TextColor3 = Color3.fromRGB(0, 255, 255)
 TitleBarLabel.TextScaled = true
 TitleBarLabel.TextSize = 14.000
@@ -674,7 +674,7 @@ VoidProtection_Button.BorderSizePixel = 0
 VoidProtection_Button.Position = UDim2.new(0, 25, 0, 175)
 VoidProtection_Button.Size = UDim2.new(0, 150, 0, 30)
 VoidProtection_Button.Font = Enum.Font.Oswald
-VoidProtection_Button.Text = "snap: r2y0h"
+VoidProtection_Button.Text = "snap: r4y0h.ii"
 VoidProtection_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 VoidProtection_Button.TextScaled = true
 VoidProtection_Button.TextSize = 14.000
@@ -1905,7 +1905,7 @@ Credits_Label.BorderSizePixel = 0
 Credits_Label.Position = UDim2.new(0, 25, 0, 150)
 Credits_Label.Size = UDim2.new(0, 350, 0, 150)
 Credits_Label.Font = Enum.Font.SourceSans
-Credits_Label.Text = "Made by: WOLF \nTiktok: @r4y0hx\nsnap: r2y0h\nroblox: @Wolfforevr\nVersion: "..version
+Credits_Label.Text = "Made by: WOLF \nTiktok: @r4y0hx\nsnap: r4y0h.ii\nroblox: @Wolfforevr\nVersion: "..version
 Credits_Label.TextColor3 = Color3.fromRGB(0, 255, 255)
 Credits_Label.TextSize = 24.000
 Credits_Label.TextWrapped = true
@@ -2416,7 +2416,7 @@ end)
 CMDBar.FocusLost:Connect(function()
 	command = CMDBar.Text
 	Players:Chat(command)
-	SendNotify("WOLF",("Snap : r2y0hr2y0h "..command),5)
+	SendNotify("WOLF",("Snap : r4y0h.ii "..command),5)
 	CMDBar.Text = ""
 end)
 
@@ -2429,7 +2429,7 @@ WalkSpeed_Button.MouseButton1Click:Connect(function()
 			Speed = 16
 		end
 		plr.Character.Humanoid.WalkSpeed = tonumber(Speed)
-		SendNotify("WOLF","Snap : r2y0h",5)
+		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end)
 end)
 
@@ -2440,7 +2440,7 @@ JumpPower_Button.MouseButton1Click:Connect(function()
 			Power = 50
 		end
 		plr.Character.Humanoid.JumpPower = tonumber(Power)
-		SendNotify("WOLF","Snap : r2y0h",5)
+		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end)
 end)
 
@@ -2451,7 +2451,7 @@ FlySpeed_Button.MouseButton1Click:Connect(function()
 			Speed = 50
 		end
 		FlySpeed = tonumber(Speed)
-		SendNotify("WOLF","Snap : r2y0h",5)
+		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end)
 end)
 
@@ -2464,12 +2464,12 @@ end)
 
 SaveCheckpoint_Button.MouseButton1Click:Connect(function()
 	SavedCheckpoint = GetRoot(plr).Position
-	SendNotify("WOLF","Snap : r2y0h",5)
+	SendNotify("WOLF","Snap : r4y0h.ii",5)
 end)
 
 ClearCheckpoint_Button.MouseButton1Click:Connect(function()
 	SavedCheckpoint = nil
-	SendNotify("WOLF","Snap : r2y0h",5)
+	SendNotify("WOLF","Snap : r4y0h.ii",5)
 end)
 
 local flying = true
@@ -3283,7 +3283,7 @@ Day_Button.MouseButton1Click:Connect(function()
 	if Shaders_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(255,0,0) then
 		game:GetService("Lighting").ClockTime = 14
 	else
-		SendNotify("WOLF","Snap : r2y0h",10)
+		SendNotify("WOLF","Snap : r4y0h.ii",10)
 	end
 end)
 
@@ -3291,7 +3291,7 @@ Night_Button.MouseButton1Click:Connect(function()
 	if Shaders_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(255,0,0) then
 		game:GetService("Lighting").ClockTime = 19
 	else
-		SendNotify("WOLF","Snap : r2y0h",10)
+		SendNotify("WOLF","Snap : r4y0h.ii",10)
 	end
 end)
 
@@ -3388,11 +3388,11 @@ plr.CharacterAdded:Connect(function(x)
 	end
 	if PotionDi_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
 		ChangeToggleColor(PotionDi_Button)
-		SendNotify("WOLF","Snap : r2y0h",5)
+		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end
 	if PotionFling_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
 		ChangeToggleColor(PotionFling_Button)
-		SendNotify("WOLF","Snap : r2y0h",5)
+		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end
 	if Fly_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(0,255,0) then
 		ChangeToggleColor(Fly_Button)
@@ -3400,7 +3400,7 @@ plr.CharacterAdded:Connect(function(x)
 		Fly_Pad.Visible = false
 		KeyDownFunction:Disconnect()
 		KeyUpFunction:Disconnect()
-		SendNotify("WOLF","Snap : r2y0h",5)
+		SendNotify("WOLF","Snap : r4y0h.ii",5)
 	end
 	x.Humanoid.Died:Connect(function()
 		pcall(function()
@@ -3434,12 +3434,12 @@ plr.CharacterAdded:Connect(function(x)
 		end
 		if not (count == original_ammount) then
 			SysBroker:Destroy()
-			SendNotify("WOLF","Snap : r2y0h")
+			SendNotify("WOLF","Snap : r4y0h.ii")
 			game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, plr)
 		end
 	else
 		SysBroker:Destroy()
-		SendNotify("WOLF","Snap : r2y0h")
+		SendNotify("WOLF","Snap : r4y0h.ii")
 		game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, plr)
 	end
 	appearance:Destroy()
@@ -3450,7 +3450,7 @@ task.spawn(function()
 		pcall(function()
 			local GuiVersion = loadstring(game:HttpGet("https://pastebin.com/raw/xCSGen4S"))()
 			if version<GuiVersion then
-				SendNotify("WOLF","Snap : r2y0h",5)
+				SendNotify("WOLF","Snap : r4y0h.ii",5)
 				task.wait(5)
 				SysBroker:Destroy()
 				game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, plr)
@@ -3486,18 +3486,18 @@ task.spawn(function()
 
 			if (plr.Name ~= original_name) or (plr.DisplayName ~= original_display) or (plr.UserId ~= plr.CharacterAppearanceId) then
 				SysBroker:Destroy()
-				SendNotify("WOLF","Snap : r2y0h...")
+				SendNotify("WOLF","Snap : r4y0h.ii...")
 				game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, plr)
 			end
 			if (date_1 ~= original_date) and (date_2 ~= original_date) and (date_3 ~= original_date) then
 				SysBroker:Destroy()
-				SendNotify("WOLF","Snap : r2y0h...")
+				SendNotify("WOLF","Snap : r4y0h.ii...")
 				game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, plr)
 			end
 		end)
 	end
 end)
 
-SendNotify("WOLF","Snap : r2y0h",10)
+SendNotify("WOLF","Snap : r4y0h.ii",10)
 setclipboard("WOLFFOREVR THE BEST !")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/premium"))() -- load the premium
